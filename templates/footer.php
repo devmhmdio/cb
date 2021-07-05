@@ -7,15 +7,18 @@
                         <ul class="contact-us-link ">
                             <li>
                                 <i class='bx bx-map'></i>
-                                <a href="# " target="_blank ">2750 Quadra Street Victoria Road, New York, USA</a>
+                                <a href="https://goo.gl/maps/d1oYxhWjQw96Jjid9" target="_blank ">
+Laxmi Nagar
+Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
+</a>
                             </li>
                             <li>
                                 <i class='bx bx-phone-call'></i>
-                                <a href="# ">+1 (123) 456 7890</a>
+                                <a href="tel:+919911006041">+91 99110 06041</a>
                             </li>
                             <li>
                                 <i class='bx bx-envelope'></i>
-                                <a href="# "><span class="__cf_email__ " data-cfemail="eb838e878784ab998a9a9e8ec5888486 ">[email&#160;protected]</span></a>
+                                <a href="mailto:info@learningshala.in"><span class="__cf_email__">info@learningshala.in</span></a>
                             </li>
                         </ul>
                         <ul class="social-link ">

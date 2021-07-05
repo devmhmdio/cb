@@ -7,12 +7,12 @@
                             <li>
                                 <i class='bx bx-phone-call'></i>
                                 <span>Contact support</span>
-                                <a href="tel:502464674">+502 464 674</a>
+                                <a href="tel:502464674">+91 99110 06041</a>
                             </li>
                             <li>
                                 <i class='bx bx-map'></i>
                                 <span>Our location</span>
-                                <a href="#">New York, USA</a>
+                                <a href="#">New Delhi, INDIA</a>
                             </li>
                             <li>
                                 <i class='bx bx-envelope'></i>

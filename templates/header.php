@@ -70,67 +70,8 @@
                                     </ul> -->
                                 </li>
                                 <li class="nav-item"><a href="#" class="nav-link">About Us</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link active">Courses <i
-                                            class='bx bx-chevron-down'></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="#" class="nav-link active">Courses Category <i
-                                                    class='bx bx-chevron-right'></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="courses-category-style-1.html" class="nav-link active">Category Style 1</a></li>
-                                                <li class="nav-item"><a href="courses-category-style-2.html" class="nav-link">Category Style 2</a></li>
-                                                <li class="nav-item"><a href="courses-category-style-3.html" class="nav-link">Category Style 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item"><a href="courses-list.html" class="nav-link">Courses
-                                                List</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Courses Grid Style 1 <i
-                                                    class='bx bx-chevron-right'></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="courses-2-columns-style-1.html" class="nav-link">2 Columns</a></li>
-                                                <li class="nav-item"><a href="courses-3-columns-style-1.html" class="nav-link">3 Columns</a></li>
-                                                <li class="nav-item"><a href="courses-4-columns-style-1.html" class="nav-link">4 Columns Full Width</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Courses Grid Style 2 <i
-                                                    class='bx bx-chevron-right'></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="courses-2-columns-style-2.html" class="nav-link">2 Columns</a></li>
-                                                <li class="nav-item"><a href="courses-3-columns-style-2.html" class="nav-link">3 Columns</a></li>
-                                                <li class="nav-item"><a href="courses-4-columns-style-2.html" class="nav-link">4 Columns Full Width</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Courses Grid Style 3 <i
-                                                    class='bx bx-chevron-right'></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="courses-2-columns-style-3.html" class="nav-link">2 Columns</a></li>
-                                                <li class="nav-item"><a href="courses-3-columns-style-3.html" class="nav-link">3 Columns</a></li>
-                                                <li class="nav-item"><a href="courses-4-columns-style-3.html" class="nav-link">4 Columns Full Width</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Courses Details <i
-                                                    class='bx bx-chevron-right'></i></a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item"><a href="single-courses.html" class="nav-link">Courses Details 1</a></li>
-                                                <li class="nav-item"><a href="single-courses-2.html" class="nav-link">Courses Details 2</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item"><a href="my-account.html" class="nav-link">My Account</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item"><a href="#" class="nav-link">Blog <i
-                                            class='bx bx-chevron-down'></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="blog-style-1.html" class="nav-link">Blog Grid</a>
-                                        </li>
-                                        <li class="nav-item"><a href="blog-style-2.html" class="nav-link">Blog Right
-                                                Sidebar</a></li>
-                                        <li class="nav-item"><a href="blog-style-3.html" class="nav-link">Blog Grid Full
-                                                Width</a></li>
-                                        <li class="nav-item"><a href="single-blog.html" class="nav-link">Blog
-                                                Details</a></li>
-                                    </ul>
-                                </li>
+                                <li class="nav-item"><a href="#" class="nav-link">Courses</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
 
                                 <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
                             </ul>

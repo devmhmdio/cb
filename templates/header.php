@@ -69,11 +69,11 @@
                                         <li class="nav-item"><a href="index-12.html" class="nav-link">Gym Coaching</a></li>
                                     </ul> -->
                                 </li>
-                                <li class="nav-item"><a href="#" class="nav-link">About Us</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Courses</a></li>
+                                <li class="nav-item"><a href="/about.php" class="nav-link">About Us</a></li>
+                                <li class="nav-item"><a href="/courses-category-style-1.php" class="nav-link">Courses</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
 
-                                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                                <li class="nav-item"><a href="/contact.php" class="nav-link">Contact</a></li>
                             </ul>
                             <div class="others-option">
 

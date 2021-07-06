@@ -1,0 +1,19 @@
+#div1 {
+    display: none;    
+}
+#div2 {
+    display: none;    
+}
+#div3 {
+    display: none;    
+}
+
+.read
+{
+    color: #F40101;
+}
+.card
+{
+    height: 450px;
+    border: none;
+}

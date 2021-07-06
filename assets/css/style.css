@@ -3512,8 +3512,8 @@ textarea.form-control {
 
 .single-categories-courses-box:hover .icon,
 .single-categories-courses-box:focus .icon {
-    background-color: #fff;
-    border-color: #21ddb9;
+    background-color:  #21ddb9;
+    border-color: #fff;
     color: #21ddb9;
     -webkit-animation: border-transform 10s linear infinite alternate forwards;
     animation: border-transform 10s linear infinite alternate forwards

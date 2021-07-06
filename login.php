@@ -19,8 +19,22 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/student-registration.css">
     <title>Enduv</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <style>
+        .txt {
+            line-height: 1.7;
+            color: #727695;
+            font-family: open sans, sans-serif;
+            font-size: 15px;
+        }
+        .input-txt
+        {
+            
+    color: lightsteelblue;
+        }
+    </style>
 </head>
 
 <body>
@@ -36,8 +50,8 @@
     <section class="login-area">
         <div class="row m-0">
             <div class="col-lg-6 col-md-12 p-0">
-                <div class="login-image">
-                    <img src="assets/img/login-bg.jpg" alt="image">
+                <div class="login-image" style="">
+                    <img src="assets/img/banner/CourseBees- Tutor Form.png" alt="image">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 p-0">
@@ -55,31 +69,29 @@
                                         <input type="text" placeholder="Your name" class="form-control" required>
                                     </div>
                                     <div class="form-group" style="text-align: left;">
-                                        <table>
-                                            <tr>
-                                                <td>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <input type="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%; float: left;" required>
 
-                                                    <input type="email" placeholder="Your email address" class="form-control" style="width: 98%; float: left;" required>
-                                                </td>
-                                                <td>
-                                                    <input type="tel" placeholder="Your phone number" class="form-control" style="width: 98%; float: right;" required>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <input type="tel" placeholder="Your phone number" class="form-control input-txt" style="width: 98%; float: right;" required>
 
-                                                </td>
-                                            </tr>
-                                        </table>
+                                            </div>
+                                        </div>
 
                                     </div>
                                     <div class="form-group" style="text-align: left;">
 
                                         <p>Enter your age and DOB</p>
-                                        <input type="number" placeholder="Your age" class="form-control" style="width: 49%; float: left;" required>
-                                        <input type="date" placeholder="Date of Birth" class="form-control" style="width: 49%; float: right;" required>
+                                        <input type="number" placeholder="Your age" class="form-control input-txt" style="width: 49%; float: left;" required>
+                                        <input type="date" placeholder="Date of Birth" class="form-control input-txt" style="width: 49%; float: right;" required>
                                         <p>&nbsp;</p>
                                     </div>
 
                                     <div class="form-group" style="text-align: left;">
                                         <p>&nbsp;</p>
-                                        <label style="margin-right: 10px;">Specialised Category</label>
+                                        <label class="txt" style="margin-right: 10px;">Specialised Category</label>
 
                                         <input type="checkbox" class="form-check-input" id="skill1">
                                         <label class="form-check-label" style="margin-right: 10px;" for="skill1">Aviation</label>
@@ -89,19 +101,19 @@
                                         <label class="form-check-label" for="skill3">English</label>
                                     </div>
                                     <div class="form-group" style="text-align: left;">
-                                        <table>
-                                            <tr>
-                                                <td>
-                                                    <p>Relevant Experience</p>
-                                                    <input type="number" placeholder="Your experience" class="form-control" style="width: 98%; float: left;" required>
-                                                </td>
-                                                <td>
-                                                    <p>Personal Achievements</p>
-                                                    <input type="text" placeholder="Achievements (if any)" class="form-control" style="width: 98%; float: right;" required>
-                                                </td>
-                                            </tr>
-                                        </table>
 
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <label class="txt">Relevant Experience</label>
+                                                <input type="text" placeholder="Relevant Experience" class="form-control input-txt" style="width: 98%; float: left;" required>
+
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <label class="txt">Personal Achievements</label>
+                                                <input type="text" placeholder="Personal Achievements" class="form-control input-txt" style="width: 98%; float: right;" required>
+
+                                            </div>
+                                        </div>
                                     </div>
                                     <p>&nbsp;</p>
                                     <button type="submit">Submit Response</button>
@@ -112,6 +124,23 @@
                         </div>
                     </div>
                 </div>
+                <div class='box'>
+					<div class='wave -one'></div>
+					<div class='wave -two'></div>
+					<div class='wave -three'></div>
+				</div>
+                <div id="background-wrap">
+					<div class="bubble x1"></div>
+					<div class="bubble x2"></div>
+					<div class="bubble x3"></div>
+					<div class="bubble x4"></div>
+					<div class="bubble x5"></div>
+					<div class="bubble x6"></div>
+					<div class="bubble x7"></div>
+					<div class="bubble x8"></div>
+					<div class="bubble x9"></div>
+					<div class="bubble x10"></div>
+				</div>
             </div>
         </div>
     </section>

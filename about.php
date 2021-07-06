@@ -82,10 +82,10 @@
                     <div class="about-content">
                         <span class="sub-title">About Us</span>
                         <h2>Learn New Skills to go ahead for Your Career</h2>
-                        <h6>We can support student forum 24/7 for national and international students.</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia laborum.</p>
-                        <p>Education encompasses both the teaching and learning of knowledge, proper conduct, and technical competency.</p>
+                        <h6>Best Courses to Learn and Get Hired!</h6>
+                        <p>CourseBees emphasizes skill-based training to support India's youth in getting promising career opportunities and even run their own business.</p>
+                        <p>In today's digital era, skill development is crucial to gain the best job opportunities and be future-ready. Expanding skill sets separates an individual from the crowd and improves your employment prospects.</p>
+                        <p>Thus, we've designed and made our hand-picked courses easily accessible to benefit both freshers working professionals. We offer precisely-developed skill development courses and world-class learning to make aspirants competent for high-paying jobs as well as starting a venture of their interest.</p>
                         <div class="features-text">
                             <h5><i class='bx bx-planet'></i>A place where you can achieve</h5>
                             <p>Education encompasses both the teaching and learning of knowledge, proper conduct, and technical competency.</p>
@@ -97,38 +97,56 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="about-text">
-                            <h3>100,000 online courses</h3>
-                            <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
-                            <ul class="features-list">
+                            <h3>Live Classes</h3>
+                            <p>Learn from home and feel like you are in the classroom itself</p>
+                            <!-- <ul class="features-list">
                                 <li><i class='bx bx-check'></i> Activate Listening</li>
                                 <li><i class='bx bx-check'></i> Brilliant minds</li>
                                 <li><i class='bx bx-check'></i> Better. Best. Wow!</li>
                                 <li><i class='bx bx-check'></i> Branding it better!</li>
-                            </ul>
+                            </ul> -->
+                            <p>&nbsp;</p>
+                            <h3>Theory and Practice with a partner</h3>
+                            <p>Students will practice with his/her friends, performance will be reviewed by trainers</p>
+                            <p>&nbsp;</p>
+                            <h3>Live Workshops</h3>
+                            <p>Multiple Live workshops will be conducted by Industry experts throughout the course</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="about-text">
-                            <h3>Expert instruction</h3>
-                            <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
-                            <ul class="features-list">
+                            <h3>Recorded Videos</h3>
+                            <p>After completion of the class recording of the class will be provided for revision</p>
+                            <!-- <ul class="features-list">
                                 <li><i class='bx bx-check'></i> Creating. Results.</li>
                                 <li><i class='bx bx-check'></i> Expect more</li>
                                 <li><i class='bx bx-check'></i> Good thinking</li>
                                 <li><i class='bx bx-check'></i> In real we trust</li>
-                            </ul>
+                            </ul> -->
+                            <p>&nbsp;</p>
+                            <h3>Doubt Clearing Session</h3>
+                            <p>Students can ask question and experts will reply. This session will be hosted multiple times during the course</p>
+                            <p>&nbsp;</p>
+                            <h3>Certification</h3>
+                            <p>You will get certificate after completion of the course by CourseBees</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
                         <div class="about-text">
-                            <h3>Lifetime access</h3>
-                            <p>Real innovations and a positive customer experience are the heart of successful communication.</p>
-                            <ul class="features-list">
+                            <h3>Best Trainers</h3>
+                            <p>Learn from the experts of the industry to get all the concepts clear</p>
+                            <!-- <ul class="features-list">
                                 <li><i class='bx bx-check'></i> Stay real. Always.</li>
                                 <li><i class='bx bx-check'></i> We have you covered</li>
                                 <li><i class='bx bx-check'></i> We turn heads</li>
                                 <li><i class='bx bx-check'></i> Your brand, promoted</li>
-                            </ul>
+                            </ul> -->
+                            <p>&nbsp;</p>
+                            <h3>Weekly Review & Assessment</h3>
+                            <p>Review and assessment will be done on weekly basis to overcome difficulties if any</p>
+                            <p>&nbsp;</p>
+                            <h3>Low Fees</h3>
+                            <p>All above features are available at a very low fee that suits everyone’s pocket</p>
                         </div>
                     </div>
                 </div>
@@ -145,16 +163,19 @@
                 </div>
                 <div class="mission-slides owl-carousel owl-theme">
                     <div>
-                        <h3>Quality can be better than quantity in this platform</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut nisi ut aliquip ex ea commodo consequat.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut nisi ut aliquip ex ea commodo consequat.</p>
-                        <a href="about-style-1.html" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
+                        <h3>Land Your Dream Job!</h3>
+                        <p>CourseBees bestows the most popular and sought-after online courses for skill development. We help enthusiastic learners, job-seekers, and aspiring entrepreneurs get qualified to accomplish their dream goals. Our premium courses are cost-effective and specially designed to upgrade your skills and take your career to new heights. Learn from our highly qualified instructors to get the best online learning experience and expand your skill set.</p>
+                        <a href="./contact.php" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
                     </div>
                     <div>
-                        <h3>A place where you can achieve</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut nisi ut aliquip ex ea commodo consequat.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut nisi ut aliquip ex ea commodo consequat.</p>
-                        <a href="about-style-2.html" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
+                        <h3>Get Trained & Kickstart Your Business!</h3>
+                        <p>Are you planning to start your own business? Opt for our skill-oriented online courses to obtain the knowledge required to operate and grow your business. Stop waiting! Take our personalized courses to learn from highly qualified teachers, gain in-depth knowledge, and transform your business idea into reality.</p>
+                        <a href="./contact.php" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
+                    </div>
+                    <div>
+                        <h3>Leverage our Expertise and Support to Promote Your Business!</h3>
+                        <p>Have a business idea? Desire to expand your business's reach and drive growth? Connect with CourseBees now! Our trained instructors will help you resolve critical business challenges and accomplish business targets. We help you promote your new business and thrive swiftly. Leverage our expertise to connect and engage with the target audience.</p>
+                        <a href="./contact.php" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
                     </div>
                 </div>
             </div>
@@ -206,7 +227,7 @@
                             </div>
                         </div>
                         <div class="feedback-info">
-                            <p>Not a member yet?​ <a href="register.html">Register now</a></p>
+                            <p>Not a member yet?​ <a href="./student-registration.php">Register now</a></p>
                         </div>
                     </div>
                 </div>
@@ -251,7 +272,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="faq-video">
                         <img src="assets/img/business-coaching/faq.jpg" alt="image">
-                        <a href="https://www.youtube.com/watch?v=bk7McNUjWgw" class="video-btn popup-youtube"><i class='bx bx-play'></i></a>
+                        <a href="#" class="video-btn popup-youtube"><i class='bx bx-play'></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
@@ -303,7 +324,7 @@
                     <div class="become-instructor-partner-content bg-color">
                         <h2>Become an Instructor</h2>
                         <p>Choose from hundreds of free courses, or get a degree or certificate at a breakthrough price. Learn at your own pace.</p>
-                        <a href="login.html" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Apply Now</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                        <a href="./teacher-registration.php" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Apply Now</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
@@ -320,7 +341,7 @@
                     <div class="become-instructor-partner-content">
                         <h2>Become a Partner</h2>
                         <p>Choose from hundreds of free courses, or get a degree or certificate at a breakthrough price. Learn at your own pace.</p>
-                        <a href="login.html" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Contact Us</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
+                        <a href="./contact.php" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Contact Us</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
                     </div>
                 </div>
             </div>

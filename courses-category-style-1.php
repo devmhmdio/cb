@@ -20,8 +20,15 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/course-category.css">
+    <link rel="stylesheet" href="assets/fa/css/all.css">
     <title>Enduv</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <style type="text/css">
+    .single-categories-courses-box:hover .icon, .single-categories-courses-box:focus .icon {
+        color: #fff !important;
+        background-color: rgba(0, 0, 0, 0.35) !important;
+    }
+    </style>
 </head>
 
 <body>
@@ -77,8 +84,9 @@
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="single-categories-courses-box mb-30">
                         <div class="icon">
-                            <img src="assets/img/Contact/Aviation.png" class='bx bx-code-alt'>
+                            <!-- <img src="assets/img/Contact/Aviation.png" class='bx bx-code-alt'> -->
                             <!-- <i class='bx bx-code-alt'></i> -->
+                            <i class="fa fa-plane" aria-hidden="true"></i>
                         </div>
                         <h3>Aviation</h3>
                         <span>60 Courses</span>
@@ -89,7 +97,8 @@
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="single-categories-courses-box mb-30 " style="background-color: #fea116 !important;">
                         <div class="icon ">
-                            <img src="assets/img/Contact/Beauty.png" class='bx bx-code-alt'>
+                            <!-- <img src="assets/img/Contact/Beauty.png" class='bx bx-code-alt'> -->
+                            <i class="fas fa-spa" aria-hidden="true"></i>
                         </div>
                         <h3>Beauty</h3>
                         <span>21 Courses</span>
@@ -100,7 +109,9 @@
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="single-categories-courses-box mb-30 " style="background-color: #1cb5a3 !important;">
                         <div class="icon ">
-                            <img src="assets/img/Contact/personality developement.png" class='bx bx-code-alt'>
+                            <!-- <img src="assets/img/Contact/personality developement.png" class='bx bx-code-alt'> -->
+                            <i class="fas fa-user-tie" aria-hidden="true"></i>
+                            
                         </div>
                         <h3>Personality Developement</h3>
                         <span>58 Courses</span>

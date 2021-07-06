@@ -50,8 +50,8 @@
     <section class="login-area">
         <div class="row m-0">
             <div class="col-lg-6 col-md-12 p-0">
-                <div class="login-image" style="">
-                    <img src="assets/img/banner/CourseBees- Tutor Form.png" alt="image">
+                <div class="login-image">
+                    <img src="assets/img/teacher-reg.jpg" alt="image">
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 p-0">

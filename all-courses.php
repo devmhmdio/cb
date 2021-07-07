@@ -23,13 +23,13 @@
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 
     <style>
-    .single-courses-box
-    {
-        height: 450px;
-    }
-    .txt{
-        height: 65px;
-    }
+        .single-courses-box {
+            height: 450px;
+        }
+
+        .txt {
+            height: 65px;
+        }
     </style>
 </head>
 
@@ -103,8 +103,7 @@
                     <div class="col-lg-4 col-md-6 mix business">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air1.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air1.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Aviation</a>
                                 </div>
@@ -133,9 +132,9 @@
                                     <li class="students-number">
                                         <i class='bx bx-time'></i> 6 months
                                     </li>
-                                    
+
                                     <li class="courses-price">
-                                    ₹19999
+                                        ₹19999
                                     </li>
                                 </ul>
                             </div>
@@ -144,8 +143,7 @@
                     <div class="col-lg-4 col-md-6 mix business">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Aviation</a>
                                 </div>
@@ -174,9 +172,9 @@
                                     <li class="students-number">
                                         <i class='bx bx-time'></i> 6 months
                                     </li>
-                                    
+
                                     <li class="courses-price">
-                                    ₹19999
+                                        ₹19999
                                     </li>
                                 </ul>
                             </div>
@@ -185,8 +183,7 @@
                     <div class="col-lg-4 col-md-6 mix business">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Aviation</a>
                                 </div>
@@ -215,9 +212,9 @@
                                     <li class="students-number">
                                         <i class='bx bx-time'></i> 3 months
                                     </li>
-                                    
+
                                     <li class="courses-price">
-                                    ₹24999
+                                        ₹24999
                                     </li>
                                 </ul>
                             </div>
@@ -226,8 +223,7 @@
                     <div class="col-lg-4 col-md-6 mix business">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Aviation</a>
                                 </div>
@@ -256,9 +252,11 @@
                                     <li class="students-number">
                                         <i class='bx bx-time'></i> 6 months
                                     </li>
-                                    
+                                    <li class="courses-lesson">
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
+                                    </li>
                                     <li class="courses-price">
-                                    ₹19999
+                                        ₹19999
                                     </li>
                                 </ul>
                             </div>
@@ -267,8 +265,7 @@
                     <div class="col-lg-4 col-md-6 mix development">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe1.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe1.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Personality Development</a>
                                 </div>
@@ -295,13 +292,13 @@
                             <div class="courses-box-footer">
                                 <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                        <i class='bx bx-time'></i> 3 months
                                     </li>
                                     <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                        $150
+                                        ₹1999
                                     </li>
                                 </ul>
                             </div>
@@ -310,8 +307,7 @@
                     <div class="col-lg-4 col-md-6 mix development">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe2.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe2.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Personality Development</a>
                                 </div>
@@ -338,14 +334,13 @@
                             <div class="courses-box-footer">
                                 <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                        <i class='bx bx-time'></i> 3 months
                                     </li>
                                     <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                        <span>$200</span>
-                                        $195
+                                        ₹1999
                                     </li>
                                 </ul>
                             </div>
@@ -354,8 +349,7 @@
                     <div class="col-lg-4 col-md-6 mix design">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea1.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea1.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Beauty</a>
                                 </div>
@@ -365,7 +359,7 @@
                                     <img src="assets/img/user5.jpg" class="rounded-circle mr-2" alt="image">
                                     <span>Author Name</span>
                                 </div>
-                                <h3><a href="single-courses.html" class="d-inline-block txt">Foundation Course in Makeup </a></h3>
+                                <h3><a href="single-courses.html" class="d-inline-block txt">Foundation Course in Makeup - For Beginners </a></h3>
                                 <div class="courses-rating">
                                     <!-- <div class="review-stars-rated">
                                         <i class='bx bxs-star'></i>
@@ -380,15 +374,15 @@
                                 </div>
                             </div>
                             <div class="courses-box-footer">
-                                <ul>
+                            <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                        <i class='bx bx-user'></i> 2 months
                                     </li>
                                     <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                        $178
+                                    ₹19999
                                     </li>
                                 </ul>
                             </div>
@@ -397,8 +391,7 @@
                     <div class="col-lg-4 col-md-6 mix design">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea2.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea2.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Beauty</a>
                                 </div>
@@ -425,13 +418,13 @@
                             <div class="courses-box-footer">
                                 <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                        <i class='bx bx-user'></i> 4 months
                                     </li>
                                     <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                        $500
+                                    ₹29999
                                     </li>
                                 </ul>
                             </div>
@@ -440,8 +433,7 @@
                     <div class="col-lg-4 col-md-6 mix design">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea3.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea3.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Beauty</a>
                                 </div>
@@ -466,15 +458,15 @@
                                 </div>
                             </div>
                             <div class="courses-box-footer">
-                                <ul>
+                            <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                        <i class='bx bx-user'></i> 3 months
                                     </li>
                                     <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                        $500
+                                    ₹19999
                                     </li>
                                 </ul>
                             </div>
@@ -483,8 +475,7 @@
                     <div class="col-lg-4 col-md-6 mix design">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea4.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/bea4.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Beauty</a>
                                 </div>
@@ -494,7 +485,7 @@
                                     <img src="assets/img/user6.jpg" class="rounded-circle mr-2" alt="image">
                                     <span>Author Name</span>
                                 </div>
-                                <h3><a href="single-courses.html" class="d-inline-block txt">Foundation Course in Makeup - For Beginners</a></h3>
+                                <h3><a href="single-courses.html" class="d-inline-block txt">Foundation Course in Cosmetology</a></h3>
                                 <div class="courses-rating">
                                     <!-- <div class="review-stars-rated">
                                         <i class='bx bxs-star'></i>
@@ -511,10 +502,13 @@
                             <div class="courses-box-footer">
                                 <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-time'></i> 2 months
+                                        <i class='bx bx-time'></i> 6 months
+                                    </li>
+                                    <li class="courses-lesson">
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price" style="float: right;">
-                                    ₹19999
+                                        ₹39999
                                     </li>
                                 </ul>
                             </div>
@@ -523,8 +517,7 @@
                     <div class="col-lg-4 col-md-6 mix development">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe3.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe3.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Personality Development</a>
                                 </div>
@@ -550,14 +543,14 @@
                             </div>
                             <div class="courses-box-footer">
                                 <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                <li class="students-number">
+                                    <i class='bx bx-time'></i> 2 months
                                     </li>
                                     <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                        $500
+                                    ₹1999
                                     </li>
                                 </ul>
                             </div>
@@ -566,8 +559,7 @@
                     <div class="col-lg-4 col-md-6 mix development">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe4.png"
-                                        alt="image"></a>
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/spe4.png" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="#" class="d-block">Personality Development</a>
                                 </div>
@@ -593,14 +585,14 @@
                             </div>
                             <div class="courses-box-footer">
                                 <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                <li class="students-number">
+                                    <i class='bx bx-time'></i> 3 months
                                     </li>
                                     <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                        $500
+                                    ₹4999
                                     </li>
                                 </ul>
                             </div>

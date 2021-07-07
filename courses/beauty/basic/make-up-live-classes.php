@@ -63,9 +63,11 @@
                 <ul>
                     <li><a href="index-2.html">Home</a></li>
                     <li><a href="courses-2-columns-style-1.html">Courses</a></li>
-                    <li>Sample Course</li>
+                    <li><a href="courses-2-columns-style-1.html">beauty</a></li>
+                    <li><a href="courses-2-columns-style-1.html">basic</a></li>
+                    <li>Make up: Live Classes</li>
                 </ul>
-                <h2>Courses</h2>
+                <h2>Make up: Live Classes</h2>
             </div>
         </div>
     </div>
@@ -77,15 +79,15 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8">
                         <div class="courses-title">
-                            <h2>Sample Course</h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>
+                            <h2>Make up: Live Classes</h2>
+                            <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>-->
                         </div>
                         <div class="courses-meta">
                             <ul>
                                 <li>
                                     <i class='bx bx-folder-open'></i>
                                     <span>Category</span>
-                                    <a href="#">Aviation</a>
+                                    <a href="#">Beauty</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-group'></i>
@@ -112,10 +114,8 @@
                                 </div>
                                 <span class="reviews-total d-inline-block">(2 reviews)</span>
                             </div> -->
-                            <div class="price">$250</div>
-                            <a href="#" class="default-btn"><i class='bx bx-paper-plane icon-arrow before'></i><span
-                                    class="label">Register for this course</span><i
-                                    class="bx bx-paper-plane icon-arrow after"></i></a>
+                            <div class="price">₹14999</div>
+                            <a href="#" class="default-btn"><i class='bx bx-paper-plane icon-arrow before'></i><span class="label">Register for this course</span><i class="bx bx-paper-plane icon-arrow after"></i></a>
                         </div>
                     </div>
                 </div>
@@ -123,11 +123,11 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="courses-details-image text-center">
-                        <img src="../../../assets/img/courses/2.jpg" alt="image">
+                        <img src="../../../assets/img/courses/g1.jpg" alt="image">
                     </div>
                     <div class="courses-details-desc">
-                        <h3>What you'll learn</h3>
-                        <div class="why-you-learn">
+                        <!-- <h3>What you'll learn</h3> -->
+                        <!-- <div class="why-you-learn">
                             <ul>
                                 <li>
                                     <span>
@@ -190,9 +190,21 @@
                                     </span>
                                 </li>
                             </ul>
-                        </div>
-                        <h3>Requirements</h3>
+                        </div> -->
+                        <h3>Basic</h3>
                         <ul class="requirements-list">
+                            <li>Duration - 2 months</li>
+                            <li>2 Hrs/day , 5 days /week</li>
+                            <li>Fee - 14999/-</li>
+                            <li>Eligibility- 8th Pass</li>
+                            <li>Career Opportunity – The need to look and feel young and beautiful is ever increasing and latest trend</li>
+                            <li>On successful completion of the course in Makeup qualified candidates can work as Makeup artist, Fashion makeup artist, Media Artist, Make up consultants, Make up trainers, Colour cosmetic advisors or free lancers</li>
+                            <li>About Trainer:</li>
+                            <li>Course Highlights: Syllabus</li>
+                        </ul>
+
+
+                        <!-- <ul class="requirements-list">
                             <li>Contrary to popular belief, Lorem Ipsum is not simply random text.</li>
                             <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</li>
                             <li>The standard Lorem Ipsum passage, used since the 1500s.</li>
@@ -249,8 +261,8 @@
                             <li>Candidates willing to boost their resume by learning how to combine the knowledge of Statistics, SQL, and Tableau in a real-world working environment</li>
                             <li>SQL Programmers who want to develop business reasoning and apply their knowledge to the solution of various business tasks</li>
                             <li>People interested in a Business Intelligence Analyst career</li>
-                        </ul>
-                        <h3>Meet your instructors</h3>
+                        </ul> -->
+                        <!-- <h3>Meet your instructors</h3>
                         <div class="courses-author">
                             <div class="author-profile-header"></div>
                             <div class="author-profile">
@@ -261,16 +273,16 @@
                                             <h4>James Anderson</h4>
                                             <span class="d-block">Photographer, Author, Teacher</span>
                                         </div>
-                                        <!-- <div class="author-profile-raque-profile">
+                                        <div class="author-profile-raque-profile">
                                             <a href="single-instructor.html" class="d-inline-block">View Profile on
                                                 Raque</a>
-                                        </div> -->
+                                        </div>
                                     </div>
                                 </div>
                                 <p>James Anderson is a celebrated photographer, author, and teacher who brings passion to everything he does.</p>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
 
@@ -292,13 +304,13 @@
                                 <a href="#" class="d-inline-block">LearningShala</a>
                             </li>
                             <li>
-                                <span><i class='bx bxs-graduation'></i> Subject:</span> Aviation
+                                <span><i class='bx bxs-graduation'></i> Subject:</span> Beauty
                             </li>
                             <li>
                                 <span><i class='bx bx-atom'></i> Quizzes:</span> Yes
                             </li>
                             <li>
-                                <span><i class='bx bxs-badge-check'></i> Level:</span> Advanced
+                                <span><i class='bx bxs-badge-check'></i> Level:</span> Basic
                             </li>
                             <li>
                                 <span><i class='bx bx-support'></i> Language:</span> English
@@ -376,17 +388,46 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="courses-purchase-info">
+                    <!-- <div class="courses-purchase-info">
                         <h4>Interested in this course for your Business or Team?</h4>
                         <p>Train your employees in the most in-demand topics, with edX for Business.</p>
                         <a href="#" class="d-inline-block">Purchase now</a>
                         <a href="#" class="d-inline-block">Request Information</a>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="become-instructor-partner-area mt-4">
+        <div class="container-fluid ">
+            <div class="row ">
+                <div class="col-lg-6 col-md-6 ">
+                    <div class="become-instructor-partner-content bg-color ">
+                        <h2>Become an Instructor</h2>
+                        <p>Choose from hundreds of free courses, or get a degree or certificate at a breakthrough price. Learn at your own pace.</p>
+                        <a href="login.html " class="default-btn "><i class='bx bx-plus-circle icon-arrow before'></i><span class="label ">Apply Now</span><i class="bx bx-plus-circle icon-arrow after "></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 ">
+                    <div class="become-instructor-partner-image bg-image1 jarallax " data-jarallax='{"speed ": 0.3}'>
+                        <img src="assets/img/become-instructor.jpg " alt="image ">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 ">
+                    <div class="become-instructor-partner-image bg-image2 jarallax " data-jarallax='{"speed ": 0.3}'>
+                        <img src="assets/img/become-partner.jpg " alt="image ">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 ">
+                    <div class="become-instructor-partner-content ">
+                        <h2>Become a Partner</h2>
+                        <p>Choose from hundreds of free courses, or get a degree or certificate at a breakthrough price. Learn at your own pace.</p>
+                        <a href="login.html " class="default-btn "><i class='bx bx-plus-circle icon-arrow before'></i><span class="label ">Contact Us</span><i class="bx bx-plus-circle icon-arrow after "></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 
     <?php include '../../../templates/footer.php' ?>
 

@@ -63,11 +63,11 @@
                 <ul>
                     <li><a href="index-2.html">Home</a></li>
                     <li><a href="courses-2-columns-style-1.html">Courses</a></li>
-                    <li><a href="courses-2-columns-style-1.html">beauty</a></li>
-                    <li><a href="courses-2-columns-style-1.html">advance</a></li>
-                    <li>Make up: Live Classes</li>
+                    <li><a href="courses-2-columns-style-1.html">aviation</a></li>
+                    <li><a href="courses-2-columns-style-1.html">basic</a></li>
+                    <li>Hair-Live-Classes</li>
                 </ul>
-                <h2>Make up: Live Classes</h2>
+                <h2>Hair: Live Classes</h2>
             </div>
         </div>
     </div>
@@ -79,7 +79,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8">
                         <div class="courses-title">
-                            <h2>Make up: Live Classes</h2>
+                            <h2>Hair: Live Classes</h2>
                             <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>-->
                         </div>
                         <div class="courses-meta">
@@ -87,7 +87,7 @@
                                 <li>
                                     <i class='bx bx-folder-open'></i>
                                     <span>Category</span>
-                                    <a href="#">Beauty</a>
+                                    <a href="#">Aviation</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-group'></i>
@@ -114,7 +114,7 @@
                                 </div>
                                 <span class="reviews-total d-inline-block">(2 reviews)</span>
                             </div> -->
-                            <div class="price">₹24999</div>
+                            <div class="price">₹14999</div>
                             <a href="#" class="default-btn"><i class='bx bx-paper-plane icon-arrow before'></i><span class="label">Register for this course</span><i class="bx bx-paper-plane icon-arrow after"></i></a>
                         </div>
                     </div>
@@ -123,7 +123,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="courses-details-image text-center">
-                        <img src="../../../assets/img/courses/g1.jpg" alt="image">
+                        <img src="../../../assets/img/courses/g2.jpg" alt="image">
                     </div>
                     <div class="courses-details-desc">
                         <!-- <h3>What you'll learn</h3> -->
@@ -191,15 +191,15 @@
                                 </li>
                             </ul>
                         </div> -->
-                        <h3>Advance</h3>
+                        <h3>Basic</h3>
                         <ul class="requirements-list">
-                            <li>Duration - 4 months</li>
-                            <li>2 Hrs/day, 5 days/week</li>
-                            <li>Fee - 24999/-</li>
+                            <li>Duration - 3 months</li>
+                            <li>2 Hrs/day , 5 days /week</li>
+                            <li>Fee - 14999/-</li>
                             <li>Eligibility- 8th Pass</li>
                             <li>Career Opportunity – The need to look and feel young and beautiful is ever increasing and latest trend</li>
-                            <li> On successful completion of the course in Makeup qualified candidates can work as Makeup artist, Fashion makeup artist, Media Artist, Make up consultants, Make up trainers, Colour cosmetic advisors or free lancers
-                            </li>
+                            <li>
+                            On successful completion of the course in Makeup qualified candidates can work as Makeup artist, Fashion makeup artist, Media Artist, Make up consultants, Make up trainers, Colour cosmetic advisors or free lancers </li>
                             <li>About Trainer:</li>
                             <li>Course Highlights: Syllabus</li>
                         </ul>
@@ -305,13 +305,13 @@
                                 <a href="#" class="d-inline-block">LearningShala</a>
                             </li>
                             <li>
-                                <span><i class='bx bxs-graduation'></i> Subject:</span> Beauty
+                                <span><i class='bx bxs-graduation'></i> Subject:</span> Aviation
                             </li>
                             <li>
                                 <span><i class='bx bx-atom'></i> Quizzes:</span> Yes
                             </li>
                             <li>
-                                <span><i class='bx bxs-badge-check'></i> Level:</span> Advanced
+                                <span><i class='bx bxs-badge-check'></i> Level:</span> Basic
                             </li>
                             <li>
                                 <span><i class='bx bx-support'></i> Language:</span> English

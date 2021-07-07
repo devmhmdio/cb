@@ -63,7 +63,7 @@
                 <ul>
                     <li><a href="index-2.html">Home</a></li>
                     <li><a href="courses-2-columns-style-1.html">Courses</a></li>
-                    <li><a href="courses-2-columns-style-1.html">beauty</a></li>
+                    <li><a href="courses-2-columns-style-1.html">aviation</a></li>
                     <li><a href="courses-2-columns-style-1.html">advance</a></li>
                     <li>Make up: Live Classes</li>
                 </ul>
@@ -87,7 +87,7 @@
                                 <li>
                                     <i class='bx bx-folder-open'></i>
                                     <span>Category</span>
-                                    <a href="#">Beauty</a>
+                                    <a href="#">Aviation</a>
                                 </li>
                                 <li>
                                     <i class='bx bx-group'></i>
@@ -305,7 +305,7 @@
                                 <a href="#" class="d-inline-block">LearningShala</a>
                             </li>
                             <li>
-                                <span><i class='bx bxs-graduation'></i> Subject:</span> Beauty
+                                <span><i class='bx bxs-graduation'></i> Subject:</span> Aviation
                             </li>
                             <li>
                                 <span><i class='bx bx-atom'></i> Quizzes:</span> Yes

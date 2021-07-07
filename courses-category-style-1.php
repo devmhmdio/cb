@@ -133,7 +133,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="card">
-                            <img class="card-img-top" src="https://www.learningshala.co.in/img/air1.png" alt="Card image cap">
+                            <img class="card-img-top" src="assets/img/courses/air1.png" alt="Card image cap">
                             <div class="card-body align-items-center">
                                 <h5 class="card-title" >Certificate in Air Hostess</h5>
                                 <p class="card-text">Cabin Crew/Air Hostess, Airline Operations, Passenger handling, Fares &
@@ -144,7 +144,7 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img class="card-img-top" src="https://www.learningshala.co.in/img/air2.png" alt="Card image cap">
+                            <img class="card-img-top" src="assets/img/courses/air1.png" alt="Card image cap">
                             <div class="card-body align-items-center">
                                 <h5 class="card-title" >Certificate in Ground Staff </h5>
                                 <p class="card-text">Ground Staff, Airline Operations, Passenger handling, Fares & Ticketing, Baggage

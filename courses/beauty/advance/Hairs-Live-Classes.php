@@ -65,9 +65,9 @@
                     <li><a href="courses-2-columns-style-1.html">Courses</a></li>
                     <li><a href="courses-2-columns-style-1.html">beauty</a></li>
                     <li><a href="courses-2-columns-style-1.html">advance</a></li>
-                    <li>Make up: Live Classes</li>
+                    <li>Hair-Live-Classes</li>
                 </ul>
-                <h2>Make up: Live Classes</h2>
+                <h2>Hair: Live Classes</h2>
             </div>
         </div>
     </div>
@@ -79,7 +79,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8">
                         <div class="courses-title">
-                            <h2>Make up: Live Classes</h2>
+                            <h2>Hair: Live Classes</h2>
                             <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy.</p>-->
                         </div>
                         <div class="courses-meta">
@@ -123,7 +123,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="courses-details-image text-center">
-                        <img src="../../../assets/img/courses/g1.jpg" alt="image">
+                        <img src="../../../assets/img/courses/g3.jpg" alt="image">
                     </div>
                     <div class="courses-details-desc">
                         <!-- <h3>What you'll learn</h3> -->
@@ -193,13 +193,11 @@
                         </div> -->
                         <h3>Advance</h3>
                         <ul class="requirements-list">
-                            <li>Duration - 4 months</li>
-                            <li>2 Hrs/day, 5 days/week</li>
+                            <li>Duration - 6 months</li>
+                            <li>2 Hrs/day , 6 days /week</li>
                             <li>Fee - 24999/-</li>
                             <li>Eligibility- 8th Pass</li>
-                            <li>Career Opportunity – The need to look and feel young and beautiful is ever increasing and latest trend</li>
-                            <li> On successful completion of the course in Makeup qualified candidates can work as Makeup artist, Fashion makeup artist, Media Artist, Make up consultants, Make up trainers, Colour cosmetic advisors or free lancers
-                            </li>
+                            <li>Career Opportunity – As in Basic course </li>
                             <li>About Trainer:</li>
                             <li>Course Highlights: Syllabus</li>
                         </ul>

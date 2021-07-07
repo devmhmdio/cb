@@ -18,7 +18,7 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
                             </li>
                             <li>
                                 <i class='bx bx-envelope'></i>
-                                <a href="mailto:info@learningshala.in"><span class="__cf_email__">info@learningshala.in</span></a>
+                                <a href="mailto:info@learningshala.in"><span class="__cf_email__">info@learningshala.co.in</span></a>
                             </li>
                         </ul>
                         <ul class="social-link ">
@@ -34,12 +34,12 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
                     <div class="single-footer-widget mb-30 ">
                         <h3>Support</h3>
                         <ul class="support-link ">
-                            <li><a href="# ">Privacy</a></li>
-                            <li><a href="# ">FAQ's</a></li>
-                            <li><a href="# ">Support</a></li>
-                            <li><a href="# ">Terms</a></li>
-                            <li><a href="# ">Condition</a></li>
-                            <li><a href="# ">Policy</a></li>
+                            <!-- <li><a href="# ">FAQ's</a></li> -->
+                            <li><a href="#">Support</a></li>
+                            <li><a href="# ">Privacy Policy</a></li>
+                            <li><a href="#">Terms and Conditions</a></li>
+                            <!-- <li><a href="#">Condition</a></li> -->
+                            <!-- <li><a href="#">Policy</a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -47,12 +47,12 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
                     <div class="single-footer-widget mb-30 ">
                         <h3>Useful Link</h3>
                         <ul class="useful-link ">
-                            <li><a href="# ">Web Design</a></li>
-                            <li><a href="# ">UI/UX Design</a></li>
-                            <li><a href="# ">WP Development</a></li>
-                            <li><a href="# ">App</a></li>
-                            <li><a href="# ">Whitepaper</a></li>
-                            <li><a href="# ">Web Development</a></li>
+                            <li><a href="#">Web Design</a></li>
+                            <li><a href="#">UI/UX Design</a></li>
+                            <li><a href="#">WP Development</a></li>
+                            <li><a href="#">App</a></li>
+                            <li><a href="#">Whitepaper</a></li>
+                            <li><a href="#">Web Development</a></li>
                         </ul>
                     </div>
                 </div>

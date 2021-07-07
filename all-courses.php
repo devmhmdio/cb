@@ -72,9 +72,9 @@
             <div class="page-title-content">
                 <ul>
                     <li><a href="index-2.html">Home</a></li>
-                    <li>About</li>
+                    <li>All Courses</li>
                 </ul>
-                <h2>About Us</h2>
+                <h2>All Courses</h2>
             </div>
         </div>
     </div>
@@ -91,7 +91,7 @@
             </div>
             <div class="shorting-menu">
                 <button class="filter" data-filter="all">All (10)</button>
-                <button class="filter" data-filter=".business">Aviation (02)</button>
+                <button class="filter" data-filter=".business">Aviation (04)</button>
                 <button class="filter" data-filter=".design">Beauty (04)</button>
                 <button class="filter" data-filter=".development">Personality Development (04)</button>
                 <!-- <button class="filter" data-filter=".language">Language (02)</button>
@@ -114,7 +114,7 @@
                                     <img src="assets/img/user1.jpg" class="rounded-circle mr-2" alt="image">
                                     <span>Author Name</span>
                                 </div>
-                                <h3><a href="single-courses.html" class="d-inline-block txt">Certificate in Air Hostess</a></h3>
+                                <h3><a href="single-courses.html" class="d-inline-block txt">Airport management & Customer Service</a></h3>
                                 <div class="courses-rating">
                                     <!-- <div class="review-stars-rated">
                                         <i class='bx bxs-star'></i>
@@ -131,13 +131,93 @@
                             <div class="courses-box-footer">
                                 <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> nmber of students
+                                        <i class='bx bx-time'></i> 6 months
                                     </li>
-                                    <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
-                                    </li>
+                                    
                                     <li class="courses-price">
-                                        Free
+                                    ₹19999
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mix business">
+                        <div class="single-courses-box mb-30">
+                            <div class="courses-image">
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png"
+                                        alt="image"></a>
+                                <div class="courses-tag">
+                                    <a href="#" class="d-block">Aviation</a>
+                                </div>
+                            </div>
+                            <div class="courses-content">
+                                <div class="course-author d-flex align-items-center">
+                                    <img src="assets/img/user2.jpg" class="rounded-circle mr-2" alt="image">
+                                    <span>Author Name</span>
+                                </div>
+                                <h3><a href="single-courses.html" class="d-inline-block txt">Aviation, Hospitality and tourism Management </a></h3>
+                                <div class="courses-rating">
+                                    <!-- <div class="review-stars-rated">
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star-half'></i>
+                                    </div>
+                                    <div class="rating-total">
+                                        4.5 (2 rating)
+                                    </div> -->
+                                </div>
+                            </div>
+                            <div class="courses-box-footer">
+                                <ul>
+                                    <li class="students-number">
+                                        <i class='bx bx-time'></i> 6 months
+                                    </li>
+                                    
+                                    <li class="courses-price">
+                                    ₹19999
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mix business">
+                        <div class="single-courses-box mb-30">
+                            <div class="courses-image">
+                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air2.png"
+                                        alt="image"></a>
+                                <div class="courses-tag">
+                                    <a href="#" class="d-block">Aviation</a>
+                                </div>
+                            </div>
+                            <div class="courses-content">
+                                <div class="course-author d-flex align-items-center">
+                                    <img src="assets/img/user2.jpg" class="rounded-circle mr-2" alt="image">
+                                    <span>Author Name</span>
+                                </div>
+                                <h3><a href="single-courses.html" class="d-inline-block txt">Certificate Course in Air Hostess </a></h3>
+                                <div class="courses-rating">
+                                    <!-- <div class="review-stars-rated">
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star'></i>
+                                        <i class='bx bxs-star-half'></i>
+                                    </div>
+                                    <div class="rating-total">
+                                        4.5 (2 rating)
+                                    </div> -->
+                                </div>
+                            </div>
+                            <div class="courses-box-footer">
+                                <ul>
+                                    <li class="students-number">
+                                        <i class='bx bx-time'></i> 3 months
+                                    </li>
+                                    
+                                    <li class="courses-price">
+                                    ₹24999
                                     </li>
                                 </ul>
                             </div>
@@ -174,13 +254,11 @@
                             <div class="courses-box-footer">
                                 <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                        <i class='bx bx-time'></i> 6 months
                                     </li>
-                                    <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
-                                    </li>
+                                    
                                     <li class="courses-price">
-                                        $250
+                                    ₹19999
                                     </li>
                                 </ul>
                             </div>
@@ -416,7 +494,7 @@
                                     <img src="assets/img/user6.jpg" class="rounded-circle mr-2" alt="image">
                                     <span>Author Name</span>
                                 </div>
-                                <h3><a href="single-courses.html" class="d-inline-block txt">Advance Course in Beauty Therapy</a></h3>
+                                <h3><a href="single-courses.html" class="d-inline-block txt">Foundation Course in Makeup - For Beginners</a></h3>
                                 <div class="courses-rating">
                                     <!-- <div class="review-stars-rated">
                                         <i class='bx bxs-star'></i>
@@ -433,13 +511,10 @@
                             <div class="courses-box-footer">
                                 <ul>
                                     <li class="students-number">
-                                        <i class='bx bx-user'></i> number of students
+                                        <i class='bx bx-time'></i> 2 months
                                     </li>
-                                    <li class="courses-lesson">
-                                        <i class='bx bx-book-open'></i> number of lessons
-                                    </li>
-                                    <li class="courses-price">
-                                        $500
+                                    <li class="courses-price" style="float: right;">
+                                    ₹19999
                                     </li>
                                 </ul>
                             </div>

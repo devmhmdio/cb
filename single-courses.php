@@ -112,7 +112,7 @@
                                 </div>
                                 <span class="reviews-total d-inline-block">(2 reviews)</span>
                             </div> -->
-                            <!-- <div class="price">$250</div> -->
+                            <div class="price">$250</div>
                             <a href="#" class="default-btn"><i class='bx bx-paper-plane icon-arrow before'></i><span
                                     class="label">Register for this course</span><i
                                     class="bx bx-paper-plane icon-arrow after"></i></a>

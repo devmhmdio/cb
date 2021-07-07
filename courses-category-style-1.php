@@ -36,7 +36,7 @@
 
     <?php include './templates/header.php' ?>
 
-
+   
     <div class="search-overlay">
         <div class="d-table">
             <div class="d-table-cell">
@@ -70,6 +70,7 @@
         </div>
     </div>
 
+    
 
     <section class="courses-categories-area ptb-100">
         <div class="container">
@@ -119,25 +120,25 @@
             <div>
 
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-sm-6">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/air1.png" alt="Card image cap">
-                            <div class="card-body">
-                                <h5 class="card-title" style="color: #2C4B7B;">Certificate in Air Hostess</h5>
-                                <p class="card-text ">Cabin Crew/Air Hostess, Airline Operations, Passenger handling, Fares &
+                            <div class="card-body align-items-center">
+                                <h5 class="card-title" >Certificate in Air Hostess</h5>
+                                <p class="card-text">Cabin Crew/Air Hostess, Airline Operations, Passenger handling, Fares &
                                     Ticketing, Baggage Handling, Guest Relationship Executive/Officer</p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-6">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/air2.png" alt="Card image cap">
-                            <div class="card-body">
-                                <h5 class="card-title">Certificate in Ground Staff </h5>
+                            <div class="card-body align-items-center">
+                                <h5 class="card-title" >Certificate in Ground Staff </h5>
                                 <p class="card-text">Ground Staff, Airline Operations, Passenger handling, Fares & Ticketing, Baggage
                                     Handling.</p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
 
                         </div>
@@ -158,44 +159,44 @@
                     <div class="col-sm-3">
                         <div class="card ">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/bea1.png" alt="Card image cap">
-                            <div class="card-body">
-                                <h5 class="card-title"> Foundation Course in Makeup </h5>
+                            <div class="card-body align-items-center">
+                                <h5 class="card-title" > Foundation Course in Makeup </h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore.</p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-3">
                         <div class="card">
                             <img class="card-img-top" src="	https://www.learningshala.co.in/img/bea2.png" alt="Card image cap">
-                            <div class="card-body">
-                                <h5 class="card-title">Advanced Course in Makeup</h5>
+                            <div class="card-body align-items-center">
+                                <h5 class="card-title" >Advanced Course in Makeup</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore.</p>
-                                <a href="#" class=" read"> Read more...</a>
+                                <a href="#" class=" read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-3">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/bea3.png" alt="Card image cap">
-                            <div class="card-body">
-                                <h5 class="card-title">Foundation Course in Beauty Therapy</h5>
+                            <div class="card-body align-items-center">
+                                <h5 class="card-title" >Foundation Course in Beauty Therapy</h5>
                                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                     tempor incididunt ut labore et dolore.</p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-3">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/bea4.png" alt="Card image cap">
-                            <div class="card-body">
+                            <div class="card-body align-items-center">
                                 <h5 class="card-title"> Advance Course in Beauty Therapy</h5>
                                 <p class="card-text">On successful completion of the course in Beauty Therapy candidate can work as
                                     beauty therapist, Salon administrator, etc.</p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
@@ -214,41 +215,41 @@
                     <div class="col-sm-3">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/spe1.png" alt="Card image cap">
-                            <div class="card-body">
+                            <div class="card-body align-items-center">
                                 <h5 class="card-title"> Start Speaking – For beginners </h5>
                                 <p class="card-text">Improve your speaking skills for perfect communication </p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-3">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/spe2.png" alt="Card image cap">
-                            <div class="card-body">
+                            <div class="card-body align-items-center">
                                 <h5 class="card-title">Speak Fluently – Advance </h5>
                                 <p class="card-text">The Spoken English course is designed to develop a learner’s confidence in
                                     speaking ability for practical purposes. </p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-3">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/spe3.png" alt="Card image cap">
-                            <div class="card-body">
+                            <div class="card-body align-items-center">
                                 <h5 class="card-title"> IELTS/ TOEFL/PTE</h5>
                                 <p class="card-text">Prepare for international english exams like IELTS, TOEFL, PTE etc.</p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-3">
                         <div class="card">
                             <img class="card-img-top" src="https://www.learningshala.co.in/img/spe4.png" alt="Card image cap">
-                            <div class="card-body">
+                            <div class="card-body align-items-center">
                                 <h5 class="card-title">Certified in English Trainer </h5>
                                 <p class="card-text">Become a certified trainer in English and kickstart your career in profsssional english teaching.</p>
-                                <a href="#" class="read"> Read more...</a>
+                                <a href="#" class="read d-flex justify-content-center"> Read more...</a>
                             </div>
                         </div>
                     </div>
@@ -258,6 +259,9 @@
         </div>
     </div>
 
+
+
+    
     <!-- <section class="courses-area ptb-100 ">
         <div class="container">
        

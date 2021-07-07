@@ -29,10 +29,10 @@
             font-family: open sans, sans-serif;
             font-size: 15px;
         }
-        .input-txt
-        {
-            
-    color: lightsteelblue;
+
+        .input-txt {
+
+            color: lightsteelblue;
         }
     </style>
 </head>
@@ -123,22 +123,22 @@
                     </div>
                 </div>
                 <div class='box'>
-					<div class='wave -one'></div>
-					<div class='wave -two'></div>
-					<div class='wave -three'></div>
-				</div>
+                    <div class='wave -one'></div>
+                    <div class='wave -two'></div>
+                    <div class='wave -three'></div>
+                </div>
                 <div id="background-wrap">
-					<div class="bubble x1"></div>
-					<div class="bubble x2"></div>
-					<div class="bubble x3"></div>
-					<div class="bubble x4"></div>
-					<div class="bubble x5"></div>
-					<div class="bubble x6"></div>
-					<div class="bubble x7"></div>
-					<div class="bubble x8"></div>
-					<div class="bubble x9"></div>
-					<div class="bubble x10"></div>
-				</div>
+                    <div class="bubble x1"></div>
+                    <div class="bubble x2"></div>
+                    <div class="bubble x3"></div>
+                    <div class="bubble x4"></div>
+                    <div class="bubble x5"></div>
+                    <div class="bubble x6"></div>
+                    <div class="bubble x7"></div>
+                    <div class="bubble x8"></div>
+                    <div class="bubble x9"></div>
+                    <div class="bubble x10"></div>
+                </div>
             </div>
         </div>
     </section>

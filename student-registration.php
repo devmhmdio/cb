@@ -34,6 +34,10 @@
 	</div>
 
 
+
+	
+
+
 	<section class="login-area">
 		<div class="row m-0">
 			<div class="col-lg-6 col-md-12 p-0">
@@ -56,12 +60,12 @@
 									<div class="form-group">
 										<div class="row">
 											<div class="col-sm-12">
-											
-											   <input type="text" placeholder="Your name" class="form-control" required>
-									
+
+												<input type="text" placeholder="Your name" class="form-control" required>
+
 											</div>
 										</div>
-										</div>
+									</div>
 									<div class="form-group" style="text-align: left;">
 										<div class="row">
 											<div class="col-sm-6 ">

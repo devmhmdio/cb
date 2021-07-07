@@ -6,21 +6,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="stylesheet" href="assets/css/bootstrap..min.css">
-    <link rel="stylesheet" href="assets/css/boxicons.min.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/odometer.min.css">
-    <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/nice-select.min.css">
-    <link rel="stylesheet" href="assets/css/viewer.min.css">
-    <link rel="stylesheet" href="assets/css/slick.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="../../../assets/css/bootstrap..min.css">
+    <link rel="stylesheet" href="../../../assets/css/boxicons.min.css">
+    <link rel="stylesheet" href="../../../assets/css/flaticon.css">
+    <link rel="stylesheet" href="../../../assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../../../assets/css/odometer.min.css">
+    <link rel="stylesheet" href="../../../assets/css/meanmenu.min.css">
+    <link rel="stylesheet" href="../../../assets/css/animate.min.css">
+    <link rel="stylesheet" href="../../../assets/css/nice-select.min.css">
+    <link rel="stylesheet" href="../../../assets/css/viewer.min.css">
+    <link rel="stylesheet" href="../../../assets/css/slick.min.css">
+    <link rel="stylesheet" href="../../../assets/css/magnific-popup.min.css">
+    <link rel="stylesheet" href="../../../assets/css/style.css">
+    <link rel="stylesheet" href="../../../assets/css/responsive.css">
     <title>Ednuv</title>
-    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="../../../assets/img/favicon.png">
 </head>
 
 <body>
@@ -33,7 +33,7 @@
     </div>
 
 
-    <?php include './templates/header.php' ?>
+    <?php include '../../../templates/header.php' ?>
 
 
     <div class="search-overlay">
@@ -123,7 +123,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="courses-details-image text-center">
-                        <img src="assets/img/courses/2.jpg" alt="image">
+                        <img src="../../../assets/img/courses/2.jpg" alt="image">
                     </div>
                     <div class="courses-details-desc">
                         <h3>What you'll learn</h3>
@@ -255,7 +255,7 @@
                             <div class="author-profile-header"></div>
                             <div class="author-profile">
                                 <div class="author-profile-title">
-                                    <img src="assets/img/user1.jpg" class="shadow-sm rounded-circle" alt="image">
+                                    <img src="../../../assets/img/user1.jpg" class="shadow-sm rounded-circle" alt="image">
                                     <div class="author-profile-title-details d-flex justify-content-between">
                                         <div class="author-profile-details">
                                             <h4>James Anderson</h4>
@@ -388,29 +388,29 @@
     </section>
 
 
-    <?php include './templates/footer.php' ?>
+    <?php include '../../../templates/footer.php' ?>
 
     <div class="go-top"><i class='bx bx-up-arrow-alt'></i></div>
 
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/mixitup.min.js"></script>
-    <script src="assets/js/parallax.min.js"></script>
-    <script src="assets/js/jquery.appear.min.js"></script>
-    <script src="assets/js/odometer.min.js"></script>
-    <script src="assets/js/particles.min.js"></script>
-    <script src="assets/js/meanmenu.min.js"></script>
-    <script src="assets/js/jquery.nice-select.min.js"></script>
-    <script src="assets/js/viewer.min.js"></script>
-    <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
-    <script src="assets/js/form-validator.min.js"></script>
-    <script src="assets/js/contact-form-script.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../../../assets/js/jquery.min.js"></script>
+    <script src="../../../assets/js/popper.min.js"></script>
+    <script src="../../../assets/js/bootstrap.min.js"></script>
+    <script src="../../../assets/js/owl.carousel.min.js"></script>
+    <script src="../../../assets/js/mixitup.min.js"></script>
+    <script src="../../../assets/js/parallax.min.js"></script>
+    <script src="../../../assets/js/jquery.appear.min.js"></script>
+    <script src="../../../assets/js/odometer.min.js"></script>
+    <script src="../../../assets/js/particles.min.js"></script>
+    <script src="../../../assets/js/meanmenu.min.js"></script>
+    <script src="../../../assets/js/jquery.nice-select.min.js"></script>
+    <script src="../../../assets/js/viewer.min.js"></script>
+    <script src="../../../assets/js/slick.min.js"></script>
+    <script src="../../../assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="../../../assets/js/jquery.ajaxchimp.min.js"></script>
+    <script src="../../../assets/js/form-validator.min.js"></script>
+    <script src="../../../assets/js/contact-form-script.js"></script>
+    <script src="../../../assets/js/main.js"></script>
 </body>
 
 </html>

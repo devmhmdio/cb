@@ -191,7 +191,7 @@
                                 </li>
                             </ul>
                         </div> -->
-                        <h3>Basic</h3>
+                        <h3>Description</h3>
                         <ul class="requirements-list">
                             <li>Duration - 2 months</li>
                             <li>2 Hrs/day , 5 days /week</li>

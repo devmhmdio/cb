@@ -409,10 +409,10 @@
                 </div>
                 <div class="col-lg-6 col-md-6 ">
                     <div class="become-instructor-partner-image bg-image1 jarallax " data-jarallax='{"speed ": 0.3}'>
-                        <img src="assets/img/become-instructor.jpg " alt="image ">
+                        <img src="../../../assets/img/become-instructor.jpg " alt="image ">
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 ">
+                <!-- <div class="col-lg-6 col-md-6 ">
                     <div class="become-instructor-partner-image bg-image2 jarallax " data-jarallax='{"speed ": 0.3}'>
                         <img src="assets/img/become-partner.jpg " alt="image ">
                     </div>
@@ -423,7 +423,7 @@
                         <p>Choose from hundreds of free courses, or get a degree or certificate at a breakthrough price. Learn at your own pace.</p>
                         <a href="login.html " class="default-btn "><i class='bx bx-plus-circle icon-arrow before'></i><span class="label ">Contact Us</span><i class="bx bx-plus-circle icon-arrow after "></i></a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

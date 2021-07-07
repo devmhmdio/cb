@@ -191,7 +191,7 @@
                                 </li>
                             </ul>
                         </div> -->
-                        <h3>Advance</h3>
+                        <h3>Description</h3>
                         <ul class="requirements-list">
                             <li>Duration - 6 months</li>
                             <li>2 Hrs/day , 6 days /week</li>

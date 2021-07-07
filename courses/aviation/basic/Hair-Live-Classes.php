@@ -191,7 +191,7 @@
                                 </li>
                             </ul>
                         </div> -->
-                        <h3>Basic</h3>
+                        <h3>Description</h3>
                         <ul class="requirements-list">
                             <li>Duration - 3 months</li>
                             <li>2 Hrs/day , 5 days /week</li>
@@ -409,12 +409,12 @@
                         <a href="login.html " class="default-btn "><i class='bx bx-plus-circle icon-arrow before'></i><span class="label ">Apply Now</span><i class="bx bx-plus-circle icon-arrow after "></i></a>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 ">
+                 <div class="col-lg-6 col-md-6 ">
                     <div class="become-instructor-partner-image bg-image1 jarallax " data-jarallax='{"speed ": 0.3}'>
                         <img src="assets/img/become-instructor.jpg " alt="image ">
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 ">
+                <!--<div class="col-lg-6 col-md-6 ">
                     <div class="become-instructor-partner-image bg-image2 jarallax " data-jarallax='{"speed ": 0.3}'>
                         <img src="assets/img/become-partner.jpg " alt="image ">
                     </div>
@@ -425,7 +425,7 @@
                         <p>Choose from hundreds of free courses, or get a degree or certificate at a breakthrough price. Learn at your own pace.</p>
                         <a href="login.html " class="default-btn "><i class='bx bx-plus-circle icon-arrow before'></i><span class="label ">Contact Us</span><i class="bx bx-plus-circle icon-arrow after "></i></a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="../../../assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="../../../assets/css/style.css">
     <link rel="stylesheet" href="../../../assets/css/responsive.css">
+    <link rel="stylesheet" href="../../../assets/fa/css/all.css">
     <title>Foundation Course in Make Up | CourseBees</title>
     <link rel="icon" type="image/png" href="../../../assets/img/favicon.png">
 </head>
@@ -303,6 +304,9 @@
                             </li>
                             <li>
                                 <span><i class='bx bxs-badge-check'></i> Level:</span> Basic
+                            </li>
+                            <li>
+                                <span><i class="fas fa-award" aria-hidden="true"></i> Eligibility:</span> 10th
                             </li>
                             <li>
                                 <span><i class='bx bx-atom'></i> Quizzes:</span> Yes

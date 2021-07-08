@@ -24,7 +24,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="top-header-btn">
-                            <a href="login.html" class="default-btn"><i class='bx bx-log-in icon-arrow before'></i><span
+                            <a href="../teacher-registration.php" class="default-btn"><i class='bx bx-log-in icon-arrow before'></i><span
                                     class="label">Register as instructor</span><i
                                     class="bx bx-log-in icon-arrow after"></i></a>
                         </div>

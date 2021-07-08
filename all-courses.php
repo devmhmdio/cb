@@ -132,7 +132,9 @@
                                     <li class="students-number">
                                         <i class='bx bx-time'></i> 6 months
                                     </li>
-
+                                    <li class="courses-lesson">
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
+                                    </li>
                                     <li class="courses-price">
                                         ₹19999
                                     </li>
@@ -172,7 +174,9 @@
                                     <li class="students-number">
                                         <i class='bx bx-time'></i> 6 months
                                     </li>
-
+                                    <li class="courses-lesson">
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
+                                    </li>
                                     <li class="courses-price">
                                         ₹19999
                                     </li>
@@ -212,7 +216,9 @@
                                     <li class="students-number">
                                         <i class='bx bx-time'></i> 3 months
                                     </li>
-
+                                    <li class="courses-lesson">
+                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
+                                    </li>
                                     <li class="courses-price">
                                         ₹24999
                                     </li>

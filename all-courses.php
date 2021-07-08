@@ -692,7 +692,7 @@
                     <div class="col-lg-4 col-md-6 mix design">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="./courses/beauty/advance/advanced-course-hair-technology.php" class="d-block"><img src="assets/img/courses/bea1.png" alt="image"></a>
+                                <a href="./courses/beauty/advance/advanced-course-hair-technology.php" class="d-block"><img src="assets/img/courses/g2.jpg" style="width: 351px;height: 184px;" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="./courses/beauty/advance/advanced-course-hair-technology.php" class="d-block">Beauty</a>
                                 </div>
@@ -734,7 +734,7 @@
                     <div class="col-lg-4 col-md-6 mix design">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="./courses/beauty/basic/foundation-course-hair.php" class="d-block"><img src="assets/img/courses/bea1.png" alt="image"></a>
+                                <a href="./courses/beauty/basic/foundation-course-hair.php" class="d-block"><img src="assets/img/courses/g2.jpg" style="width: 351px;height: 184px;" alt="image"></a>
                                 <div class="courses-tag">
                                     <a href="./courses/beauty/basic/foundation-course-hair.php" class="d-block">Beauty</a>
                                 </div>

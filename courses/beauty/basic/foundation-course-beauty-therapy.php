@@ -296,7 +296,7 @@
                                 <span><i class='bx bx-time'></i> Duration:</span> 3 Months
                             </li>
                             <li>
-                                <span><i class='bx bx-tachometer'></i> Learning Effort:</span> 2 Hrs/Day, 5 Days/Week
+                                <span><i class='bx bx-tachometer'></i> Learning Effort:</span> 2 Hrs/Day,5 Days/Week
                             </li>
                             
                             <li>

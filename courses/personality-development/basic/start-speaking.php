@@ -128,7 +128,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="courses-details-image text-center">
-                        <img src="../../../assets/img/courses/bea3.png" alt="image" style="height: 595px;">
+                        <img src="../../../assets/img/courses/spe3.png" alt="image" style="height: 595px;">
                     </div>
                     <div class="courses-details-desc">
                         <!-- <h3>What you'll learn</h3> -->

@@ -90,7 +90,7 @@
                         class="bx bx-show-alt icon-arrow after"></i></a> -->
             </div>
             <div class="shorting-menu">
-                <button class="filter" data-filter="all">All (10)</button>
+                <button class="filter" data-filter="all">All (12)</button>
                 <button class="filter" data-filter=".business">Aviation (04)</button>
                 <button class="filter" data-filter=".design">Beauty (04)</button>
                 <button class="filter" data-filter=".development">Personality Development (04)</button>
@@ -103,9 +103,9 @@
                     <div class="col-lg-4 col-md-6 mix business">
                         <div class="single-courses-box mb-30">
                             <div class="courses-image">
-                                <a href="single-courses.html" class="d-block"><img src="assets/img/courses/air1.png" alt="image"></a>
+                                <a href="./courses/aviation/basic/airport-management-customer-service.php" class="d-block"><img src="assets/img/courses/air1.png" alt="image"></a>
                                 <div class="courses-tag">
-                                    <a href="#" class="d-block">Aviation</a>
+                                    <a href="./courses/aviation/basic/airport-management-customer-service.php" class="d-block">Aviation</a>
                                 </div>
                             </div>
                             <div class="courses-content">
@@ -113,7 +113,7 @@
                                     <img src="assets/img/user1.jpg" class="rounded-circle mr-2" alt="image">
                                     <span>Author Name</span>
                                 </div>
-                                <h3><a href="single-courses.html" class="d-inline-block txt">Airport management & Customer Service</a></h3>
+                                <h3><a href="./courses/aviation/basic/airport-management-customer-service.php" class="d-inline-block txt">Airport management & Customer Service</a></h3>
                                 <div class="courses-rating">
                                     <!-- <div class="review-stars-rated">
                                         <i class='bx bxs-star'></i>

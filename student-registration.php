@@ -33,11 +33,6 @@
 		</div>
 	</div>
 
-
-
-	
-
-
 	<section class="login-area">
 		<div class="row m-0">
 			<div class="col-lg-6 col-md-12 p-0">

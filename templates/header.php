@@ -1,3 +1,5 @@
+<?php $baselink = "http://coursebees.com/"; ?>
+
 <header class="header-area">
         <div class="top-header">
             <div class="container">
@@ -17,8 +19,8 @@
                             <li>
                                 <i class='bx bx-envelope'></i>
                                 <span>Contact email</span>
-                                <a href="mailto:mrafique@moreyeahs.co"><span
-                                        class="__cf_email__">hello@internshala.co.in</span></a>
+                                <a href="mailto:hello@coursebees.com"><span
+                                        class="__cf_email__">hello@coursebees.com</span></a>
                             </li>
                         </ul>
                     </div>
@@ -38,8 +40,9 @@
                 <div class="container">
                     <div class="raque-responsive-menu">
                         <div class="logo">
-                            <a href="index-2.html">
-                                <img src="assets/img/black-logo.png" alt="logo">
+                            <a href="<?php $baselink ?>">
+                                <!-- <img src="../assets/img/black-logo.png" alt="logo"> -->
+                                <img src="<?php echo $baselink?>assets/img/black-logo.png" alt="logo">
                             </a>
                         </div>
                     </div>
@@ -50,11 +53,12 @@
                     <nav class="navbar navbar-expand-md navbar-light">
 
                         <div class="collapse navbar-collapse mean-menu">
-                            <a class="navbar-brand" href="index-2.html">
-                                <img src="assets/img/black-logo.png" alt="logo">
+                            <a class="navbar-brand" href="<?php echo $baselink?>">
+                                <img src="<?php echo $baselink?>assets/img/black-logo.png" alt="logo">
+                                <!-- <img src="../assets/img/black-logo.png" alt="logo"> -->
                             </a>
                             <ul class="navbar-nav">
-                                <li class="nav-item"><a href="#" class="nav-link">Home</a>
+                                <li class="nav-item"><a href="<?php echo $baselink?>" class="nav-link">Home</a>
                                     <!-- <ul class="dropdown-menu">
                                         <li class="nav-item"><a href="index-2.html" class="nav-link">Distant Learning</a></li>
                                         <li class="nav-item"><a href="index-3.html" class="nav-link">Course Portal Online</a></li>
@@ -69,11 +73,11 @@
                                         <li class="nav-item"><a href="index-12.html" class="nav-link">Gym Coaching</a></li>
                                     </ul> -->
                                 </li>
-                                <li class="nav-item"><a href="../about.php" class="nav-link">About Us</a></li>
-                                <li class="nav-item"><a href="../courses-category-style-1.php" class="nav-link">Courses</a></li>
+                                <li class="nav-item"><a href="<?php echo $baselink?>about.php" class="nav-link">About Us</a></li>
+                                <li class="nav-item"><a href="<?php echo $baselink?>all-courses.php" class="nav-link">Courses</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
 
-                                <li class="nav-item"><a href="../contact.php" class="nav-link">Contact</a></li>
+                                <li class="nav-item"><a href="<?php echo $baselink?>contact.php" class="nav-link">Contact</a></li>
                             </ul>
                             <div class="others-option">
 
@@ -93,19 +97,19 @@
             <div class="raque-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="index-2.html">
-                            <img src="assets/img/black-logo.png" alt="logo">
+                        <a class="navbar-brand" href="<?php echo $baselink?>">
+                            <img src="<?php echo $baselink?>assets/img/black-logo.png" alt="logo">
                         </a>
                         <div class="collapse navbar-collapse">
                             <ul class="navbar-nav">
-                                <li class="nav-item"><a href="#" class="nav-link">Home</a>
+                                <li class="nav-item"><a href="<?php echo $baselink?>" class="nav-link">Home</a>
                                     
                                 </li>
-                                <li class="nav-item"><a href="../about.php" class="nav-link">About Us</a></li>
-                                <li class="nav-item"><a href="../courses-category-style-1.php" class="nav-link">Courses</a></li>
+                                <li class="nav-item"><a href="<?php echo $baselink?>about.php" class="nav-link">About Us</a></li>
+                                <li class="nav-item"><a href="<?php echo $baselink?>all-courses.php" class="nav-link">Courses</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Blog</a></li>
 
-                                <li class="nav-item"><a href="../contact.php" class="nav-link">Contact</a></li>
+                                <li class="nav-item"><a href="<?php echo $baselink?>contact.php" class="nav-link">Contact</a></li>
                                 
                                 
                                 <!-- <li class="nav-item"><a href="#" class="nav-link">Shop <i

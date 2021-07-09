@@ -19,23 +19,8 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <link rel="stylesheet" href="assets/fa/css/all.css">
     <title>Enduv</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
-    <style type="text/css">
-    .single-categories-courses-box:hover .icon, .single-categories-courses-box:focus .icon {
-        color: #fff !important;
-        background-color: rgba(0, 0, 0, 0.35) !important;
-    }
-    .single-courses-box {
-            height: 450px;
-        }
-
-        .txt {
-            height: 65px;
-        }
-    </style>
-    
 </head>
 
 <body>
@@ -72,6 +57,17 @@
     </div>
 
 
+    <div class="page-title-area item-bg1 jarallax" data-jarallax='{"speed": 0.3}'>
+        <div class="container">
+            <div class="page-title-content">
+                <ul>
+                    <li><a href="index-2.html">Home</a></li>
+                    <li>About</li>
+                </ul>
+                <h2>About Us</h2>
+            </div>
+        </div>
+    </div>
 
     <section class="about-area ptb-100">
         <div class="container">
@@ -94,798 +90,63 @@
                             <h5><i class='bx bx-planet'></i>A place where you can achieve</h5>
                             <p>Education encompasses both the teaching and learning of knowledge, proper conduct, and technical competency.</p>
                         </div>
-                        <a href="courses-2-columns-style-1.html" class="default-btn"><i
-                                class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Read More</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-
-    <section class="courses-categories-area bg-image ptb-100">
-        <div class="container">
-            <div class="row buttons">
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="single-categories-courses-box mb-30">
-                        <div class="icon">
-                            <!-- <img src="assets/img/Contact/Aviation.png" class='bx bx-code-alt'> -->
-                            <!-- <i class='bx bx-code-alt'></i> -->
-                            <i class="fa fa-plane" aria-hidden="true"></i>
-                        </div>
-                        <h3>Aviation</h3>
-                        <span>60 Courses</span>
-                        <a class="link-btn showSingle" target="1"></a>
-
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="single-categories-courses-box mb-30 " style="background-color: #fea116 !important;">
-                        <div class="icon ">
-                            <!-- <img src="assets/img/Contact/Beauty.png" class='bx bx-code-alt'> -->
-                            <i class="fas fa-spa" aria-hidden="true"></i>
-                        </div>
-                        <h3>Beauty</h3>
-                        <span>21 Courses</span>
-                        <a class="link-btn showSingle" target="2"></a>
-
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="single-categories-courses-box mb-30 " style="background-color: #1cb5a3 !important;">
-                        <div class="icon ">
-                            <!-- <img src="assets/img/Contact/personality developement.png" class='bx bx-code-alt'> -->
-                            <i class="fas fa-user-tie" aria-hidden="true"></i>
-                            
-                        </div>
-                        <h3>Personality Developement</h3>
-                        <span>58 Courses</span>
-                        <a class="link-btn showSingle" target="3"></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="particles-js-circle-bubble-4"></div>
-    </section>
-
-
-    <section class="funfacts-area pt-100">
-        <div class="container">
-            <div class="funfacts-inner">
+            <div class="about-inner-area">
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-6">
-                        <div class="single-funfact">
-                            <div class="icon">
-                                <i class='bx bxs-group'></i>
-                            </div>
-                            <h3 class="odometer" data-count="50">00</h3>
-                            <p>Expert Instructors</p>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="about-text">
+                            <h3>Live Classes</h3>
+                            <p>Learn from home and feel like you are in the classroom itself</p>
+                            <!-- <ul class="features-list">
+                                <li><i class='bx bx-check'></i> Activate Listening</li>
+                                <li><i class='bx bx-check'></i> Brilliant minds</li>
+                                <li><i class='bx bx-check'></i> Better. Best. Wow!</li>
+                                <li><i class='bx bx-check'></i> Branding it better!</li>
+                            </ul> -->
+                            <p>&nbsp;</p>
+                            <h3>Theory and Practice with a partner</h3>
+                            <p>Students will practice with his/her friends, performance will be reviewed by trainers</p>
+                            <p>&nbsp;</p>
+                            <h3>Live Workshops</h3>
+                            <p>Multiple Live workshops will be conducted by Industry experts throughout the course</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-6">
-                        <div class="single-funfact">
-                            <div class="icon">
-                                <i class='bx bx-book-reader'></i>
-                            </div>
-                            <h3 class="odometer" data-count="1754">00</h3>
-                            <p>Total Courses</p>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="about-text">
+                            <h3>Recorded Videos</h3>
+                            <p>After completion of the class recording of the class will be provided for revision</p>
+                            <!-- <ul class="features-list">
+                                <li><i class='bx bx-check'></i> Creating. Results.</li>
+                                <li><i class='bx bx-check'></i> Expect more</li>
+                                <li><i class='bx bx-check'></i> Good thinking</li>
+                                <li><i class='bx bx-check'></i> In real we trust</li>
+                            </ul> -->
+                            <p>&nbsp;</p>
+                            <h3>Doubt Clearing Session</h3>
+                            <p>Students can ask question and experts will reply. This session will be hosted multiple times during the course</p>
+                            <p>&nbsp;</p>
+                            <h3>Certification</h3>
+                            <p>You will get certificate after completion of the course by CourseBees</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-6">
-                        <div class="single-funfact">
-                            <div class="icon">
-                                <i class='bx bx-user-pin'></i>
-                            </div>
-                            <h3 class="odometer" data-count="8190">00</h3>
-                            <p>Happy Students</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-6">
-                        <div class="single-funfact">
-                            <div class="icon">
-                                <i class='bx bxl-deviantart'></i>
-                            </div>
-                            <h3 class="odometer" data-count="654">00</h3>
-                            <p>Creative Events</p>
-                        </div>
-                    </div>
-                </div>
-                <div id="particles-js-circle-bubble"></div>
-            </div>
-        </div>
-    </section>
-
-    <section class="courses-area pt-100 pb-70">
-        <div class="container">
-            <div class="section-title text-left">
-                <span class="sub-title">Discover Courses</span>
-                <h2>Our Popular Online Courses</h2>
-                <!-- <a href="courses-2-columns-style-1.html" class="default-btn"><i
-                        class='bx bx-show-alt icon-arrow before'></i><span class="label">All Courses</span><i
-                        class="bx bx-show-alt icon-arrow after"></i></a> -->
-            </div>
-            <div class="shorting-menu">
-                <button class="filter" data-filter="all">All (12)</button>
-                <button class="filter" data-filter=".business">Aviation (04)</button>
-                <button class="filter" data-filter=".design">Beauty (08)</button>
-                <button class="filter" data-filter=".development">Personality Development (04)</button>
-                <!-- <button class="filter" data-filter=".language">Language (02)</button>
-                <button class="filter" data-filter=".management">Management (03)</button>
-                <button class="filter" data-filter=".photography">Photography (04)</button> -->
-            </div>
-            <div class="shorting">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 mix business">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/aviation/basic/airport-management-customer-service.php" class="d-block"><img src="assets/img/courses/air1.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/aviation/basic/airport-management-customer-service.php" class="d-block">Aviation</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user1.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/aviation/basic/airport-management-customer-service.php" class="d-inline-block txt">Airport management & Customer Service</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 6 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹19999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix business">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/aviation/basic/aviation-hospitality-tourism.php" class="d-block"><img src="assets/img/courses/air2.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/aviation/basic/aviation-hospitality-tourism.php" class="d-block">Aviation</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user2.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/aviation/basic/aviation-hospitality-tourism.php" class="d-inline-block txt">Aviation, Hospitality and tourism Management </a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star-half'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        4.5 (2 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 6 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹19999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix business">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/aviation/advance/certificate-course-air-hostess.php" class="d-block"><img src="assets/img/courses/air2.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/aviation/advance/certificate-course-air-hostess.php" class="d-block">Aviation</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user2.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/aviation/advance/certificate-course-air-hostess.php" class="d-inline-block txt">Certificate Course in Air Hostess </a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star-half'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        4.5 (2 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 3 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹24999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix business">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/aviation/basic/certificate-ground-staff.php" class="d-block"><img src="assets/img/courses/air2.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/aviation/basic/certificate-ground-staff.php" class="d-block">Aviation</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user2.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/aviation/basic/certificate-ground-staff.php" class="d-inline-block txt">Certificate in Ground Staff </a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star-half'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        4.5 (2 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 6 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹19999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix development">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/personality-development/basic/start-speaking.php" class="d-block"><img src="assets/img/courses/spe1.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/personality-development/basic/start-speaking.php" class="d-block">Personality Development</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user3.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/personality-development/basic/start-speaking.php" class="d-inline-block txt">Start Speaking – For beginners </a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bx-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        4.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 3 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹1999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix development">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/personality-development/advance/speak-fluently.php" class="d-block"><img src="assets/img/courses/spe2.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/personality-development/advance/speak-fluently.php" class="d-block">Personality Development</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user4.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/personality-development/advance/speak-fluently.php" class="d-inline-block txt">Speak Fluently – Advance</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 3 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹1999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/basic/foundation-make-up.php" class="d-block"><img src="assets/img/courses/bea1.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/basic/foundation-make-up.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user5.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/basic/foundation-make-up.php" class="d-inline-block txt">Foundation Course in Makeup - For Beginners </a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> 2 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹19999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/advance/advanced-course-makeup.php" class="d-block"><img src="assets/img/courses/bea2.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/advance/advanced-course-makeup.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user6.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/advance/advanced-course-makeup.php" class="d-inline-block txt">Advanced Course in Makeup</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> 4 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹29999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/basic/foundation-course-beauty-therapy.php" class="d-block"><img src="assets/img/courses/bea3.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/basic/foundation-course-beauty-therapy.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user6.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/basic/foundation-course-beauty-therapy.php" class="d-inline-block txt">Foundation Course in Beauty Therapy</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> 3 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹19999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/basic/foundation-course-cosmetology.php" class="d-block"><img src="assets/img/courses/bea4.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/basic/foundation-course-cosmetology.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user6.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/basic/foundation-course-cosmetology.php" class="d-inline-block txt">Foundation Course in Cosmetology</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 6 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price" style="float: right;">
-                                        ₹39999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix development">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/personality-development/advance/competitive-exams.php" class="d-block"><img src="assets/img/courses/spe3.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/personality-development/advance/competitive-exams.php" class="d-block">Personality Development</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user6.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Aothpr Name</span>
-                                </div>
-                                <h3><a href="./courses/personality-development/advance/competitive-exams.php" class="d-inline-block txt">IELTS/ TOEFL/PTE</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 2 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹1999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/advance/advance-course-beauty-therapy.php" class="d-block"><img src="assets/img/courses/bea1.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/advance/advance-course-beauty-therapy.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user5.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/advance/advance-course-beauty-therapy.php" class="d-inline-block txt">Advance Course in Beauty Therapy</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> 6 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                    ₹29999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix development">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/personality-development/combos/start-fluent.php" class="d-block"><img src="assets/img/courses/spe4.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/personality-development/combos/start-fluent.php" class="d-block">Personality Development</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user6.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Aothpr Name</span>
-                                </div>
-                                <h3><a href="./courses/personality-development/combos/start-fluent.php" class="d-inline-block txt">Certified in English Trainer</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-time'></i> 3 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹4999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/advance/advance-course-cosmetology.php" class="d-block"><img src="assets/img/courses/bea1.png" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/advance/advance-course-cosmetology.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user5.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/advance/advance-course-cosmetology.php" class="d-inline-block txt">Advance Course in Cosmetology</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> 12 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹59999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/advance/advanced-course-hair-technology.php" class="d-block"><img src="assets/img/courses/g2.jpg" style="width: 351px;height: 184px;" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/advance/advanced-course-hair-technology.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user5.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/advance/advanced-course-hair-technology.php" class="d-inline-block txt">Advanced course in Hair Technology</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> 6 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹29999
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mix design">
-                        <div class="single-courses-box mb-30">
-                            <div class="courses-image">
-                                <a href="./courses/beauty/basic/foundation-course-hair.php" class="d-block"><img src="assets/img/courses/g2.jpg" style="width: 351px;height: 184px;" alt="image"></a>
-                                <div class="courses-tag">
-                                    <a href="./courses/beauty/basic/foundation-course-hair.php" class="d-block">Beauty</a>
-                                </div>
-                            </div>
-                            <div class="courses-content">
-                                <div class="course-author d-flex align-items-center">
-                                    <img src="assets/img/user5.jpg" class="rounded-circle mr-2" alt="image">
-                                    <span>Author Name</span>
-                                </div>
-                                <h3><a href="./courses/beauty/basic/foundation-course-hair.php" class="d-inline-block txt">Foundation Course in Hair Technology</a></h3>
-                                <div class="courses-rating">
-                                    <!-- <div class="review-stars-rated">
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                        <i class='bx bxs-star'></i>
-                                    </div>
-                                    <div class="rating-total">
-                                        5.0 (1 rating)
-                                    </div> -->
-                                </div>
-                            </div>
-                            <div class="courses-box-footer">
-                                <ul>
-                                    <li class="students-number">
-                                        <i class='bx bx-user'></i> 3 months
-                                    </li>
-                                    <li class="courses-lesson">
-                                        <!-- <i class='bx bx-book-open'></i> number of lessons -->
-                                    </li>
-                                    <li class="courses-price">
-                                        ₹19999
-                                    </li>
-                                </ul>
-                            </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
+                        <div class="about-text">
+                            <h3>Best Trainers</h3>
+                            <p>Learn from the experts of the industry to get all the concepts clear</p>
+                            <!-- <ul class="features-list">
+                                <li><i class='bx bx-check'></i> Stay real. Always.</li>
+                                <li><i class='bx bx-check'></i> We have you covered</li>
+                                <li><i class='bx bx-check'></i> We turn heads</li>
+                                <li><i class='bx bx-check'></i> Your brand, promoted</li>
+                            </ul> -->
+                            <p>&nbsp;</p>
+                            <h3>Weekly Review & Assessment</h3>
+                            <p>Review and assessment will be done on weekly basis to overcome difficulties if any</p>
+                            <p>&nbsp;</p>
+                            <h3>Low Fees</h3>
+                            <p>All above features are available at a very low fee that suits everyone’s pocket</p>
                         </div>
                     </div>
                 </div>
@@ -893,41 +154,164 @@
         </div>
     </section>
 
-    <section class="partner-area bg-color ptb-100">
+    <section class="mission-area ptb-100 jarallax" data-jarallax='{"speed": 0.3}'>
         <div class="container">
-            <div class="section-title">
-                <h2>Our Company & Partners</h2>
+            <div class="mission-content">
+                <div class="section-title text-left">
+                    <span class="sub-title">Discover Mission</span>
+                    <h2>Why our platform in better</h2>
+                </div>
+                <div class="mission-slides owl-carousel owl-theme">
+                    <div>
+                        <h3>Land Your Dream Job!</h3>
+                        <p>CourseBees bestows the most popular and sought-after online courses for skill development. We help enthusiastic learners, job-seekers, and aspiring entrepreneurs get qualified to accomplish their dream goals. Our premium courses are cost-effective and specially designed to upgrade your skills and take your career to new heights. Learn from our highly qualified instructors to get the best online learning experience and expand your skill set.</p>
+                        <a href="./contact.php" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
+                    </div>
+                    <div>
+                        <h3>Get Trained & Kickstart Your Business!</h3>
+                        <p>Are you planning to start your own business? Opt for our skill-oriented online courses to obtain the knowledge required to operate and grow your business. Stop waiting! Take our personalized courses to learn from highly qualified teachers, gain in-depth knowledge, and transform your business idea into reality.</p>
+                        <a href="./contact.php" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
+                    </div>
+                    <div>
+                        <h3>Leverage our Expertise and Support to Promote Your Business!</h3>
+                        <p>Have a business idea? Desire to expand your business's reach and drive growth? Connect with CourseBees now! Our trained instructors will help you resolve critical business challenges and accomplish business targets. We help you promote your new business and thrive swiftly. Leverage our expertise to connect and engage with the target audience.</p>
+                        <a href="./contact.php" class="default-btn"><i class='bx bx-user-pin icon-arrow before'></i><span class="label">Learn More</span><i class="bx bx-user-pin icon-arrow after"></i></a>
+                    </div>
+                </div>
             </div>
-            <div class="partner-slides owl-carousel owl-theme">
-                <div class="single-partner-item">
-                    <a href="#" class="d-block">
-                        <img src="assets/img/partner/1.png" alt="image">
-                    </a>
+        </div>
+    </section>
+
+    <section class="funfacts-and-feedback-area bg-f8e8e9 ptb-100">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+                    <div class="feedback-slides-content">
+                        <span class="sub-title">Distance learning</span>
+                        <h2>Flexible Study at Your Own Pace, According to Your Own Needs</h2>
+                        <p>With the Raque, you can study whenever and wherever you choose. We have students in over 175 countries and a global reputation as a pioneer in the field of flexible learning. Our teaching also means, if you travel often or need
+                            to relocate, you can continue to study wherever you go.</p>
+                        <div class="feedback-slides-two owl-carousel owl-theme">
+                            <div class="single-feedback-slides-item">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                                    Lorem ipsum dolor sit amet, consectetur rr adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                <div class="client-info d-flex align-items-center">
+                                    <img src="assets/img/user1.jpg" class="rounded-circle" alt="image">
+                                    <div class="title">
+                                        <h3>John Smith</h3>
+                                        <span>Python Developer</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-feedback-slides-item">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                                    Lorem ipsum dolor sit amet, consectetur rr adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                <div class="client-info d-flex align-items-center">
+                                    <img src="assets/img/user2.jpg" class="rounded-circle" alt="image">
+                                    <div class="title">
+                                        <h3>Sarah Taylor</h3>
+                                        <span>PHP Developer</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-feedback-slides-item">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
+                                    Lorem ipsum dolor sit amet, consectetur rr adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                <div class="client-info d-flex align-items-center">
+                                    <img src="assets/img/user1.jpg" class="rounded-circle" alt="image">
+                                    <div class="title">
+                                        <h3>David Warner</h3>
+                                        <span>QA Developer</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feedback-info">
+                            <p>Not a member yet?​ <a href="./student-registration.php">Register now</a></p>
+                        </div>
+                    </div>
                 </div>
-                <div class="single-partner-item">
-                    <a href="#" class="d-block">
-                        <img src="assets/img/partner/2.png" alt="image">
-                    </a>
+                <div class="col-lg-6 col-md-12">
+                    <div class="funfacts-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-funfacts-box">
+                                    <h3><span class="odometer" data-count="1926">00</span></h3>
+                                    <p>Finished Sessions</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-funfacts-box">
+                                    <h3><span class="odometer" data-count="3279">00</span></h3>
+                                    <p>Enrolled Learners</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-funfacts-box">
+                                    <h3><span class="odometer" data-count="250">00</span></h3>
+                                    <p>Online Instructors</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="single-funfacts-box">
+                                    <h3><span class="odometer" data-count="100">00</span>%</h3>
+                                    <p>Satisfaction Rate</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="single-partner-item">
-                    <a href="#" class="d-block">
-                        <img src="assets/img/partner/3.png" alt="image">
-                    </a>
+            </div>
+        </div>
+        <div class="business-shape6"><img src="assets/img/business-coaching/business-shape5.png" alt="image"></div>
+    </section>
+
+    <section class="faq-area bg-f8e8e9 pb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="faq-video">
+                        <img src="assets/img/business-coaching/faq.jpg" alt="image">
+                        <a href="#" class="video-btn popup-youtube"><i class='bx bx-play'></i></a>
+                    </div>
                 </div>
-                <div class="single-partner-item">
-                    <a href="#" class="d-block">
-                        <img src="assets/img/partner/4.png" alt="image">
-                    </a>
-                </div>
-                <div class="single-partner-item">
-                    <a href="#" class="d-block">
-                        <img src="assets/img/partner/5.png" alt="image">
-                    </a>
-                </div>
-                <div class="single-partner-item">
-                    <a href="#" class="d-block">
-                        <img src="assets/img/partner/6.png" alt="image">
-                    </a>
+                <div class="col-lg-6 col-md-12">
+                    <div class="faq-accordion faq-accordion-style-two">
+                        <ul class="accordion">
+                            <li class="accordion-item">
+                                <a class="accordion-title active" href="javascript:void(0)">
+                                    <i class='bx bx-chevron-down'></i> What are the different types of undergraduate degrees?
+                                </a>
+                                <div class="accordion-content show">
+                                    <p>Associate: a two-year program that either leads to a specific vocation or transitions to a bachelor program. Bachelor: a four or five-year program where students earn credits in a wide variety of courses.</p>
+                                </div>
+                            </li>
+                            <li class="accordion-item">
+                                <a class="accordion-title" href="javascript:void(0)">
+                                    <i class='bx bx-chevron-down'></i> What are the different types of graduate degrees?
+                                </a>
+                                <div class="accordion-content">
+                                    <p>Associate: a two-year program that either leads to a specific vocation or transitions to a bachelor program. Bachelor: a four or five-year program where students earn credits in a wide variety of courses.</p>
+                                </div>
+                            </li>
+                            <li class="accordion-item">
+                                <a class="accordion-title" href="javascript:void(0)">
+                                    <i class='bx bx-chevron-down'></i> Can you work while studying in the United States?
+                                </a>
+                                <div class="accordion-content">
+                                    <p>Associate: a two-year program that either leads to a specific vocation or transitions to a bachelor program. Bachelor: a four or five-year program where students earn credits in a wide variety of courses.</p>
+                                </div>
+                            </li>
+                            <li class="accordion-item">
+                                <a class="accordion-title" href="javascript:void(0)">
+                                    <i class='bx bx-chevron-down'></i> What is distance education?
+                                </a>
+                                <div class="accordion-content">
+                                    <p>Associate: a two-year program that either leads to a specific vocation or transitions to a bachelor program. Bachelor: a four or five-year program where students earn credits in a wide variety of courses.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
@@ -958,169 +342,6 @@
                         <h2>Become a Partner</h2>
                         <p>Choose from hundreds of free courses, or get a degree or certificate at a breakthrough price. Learn at your own pace.</p>
                         <a href="./contact.php" class="default-btn"><i class='bx bx-plus-circle icon-arrow before'></i><span class="label">Contact Us</span><i class="bx bx-plus-circle icon-arrow after"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="feedback-area ptb-100">
-        <div class="container">
-            <div class="feedback-slides owl-carousel owl-theme">
-                <div class="single-feedback-item">
-                    <p>“Keep away from people who try to belittle your ambitions. Small people always do that, but the
-                        really great make you feel that you, too, can become great.”</p>
-                    <div class="info">
-                        <h3>James Anderson</h3>
-                        <span>Switzerland</span>
-                        <img src="assets/img/user1.jpg" class="shadow rounded-circle" alt="image">
-                    </div>
-                </div>
-                <div class="single-feedback-item">
-                    <p>“The difference between school and life? In school, you're taught a lesson and then given a test.
-                        In life, you're given a test that teaches you a lesson.”</p>
-                    <div class="info">
-                        <h3>Lina D'Souza</h3>
-                        <span>Switzerland</span>
-                        <img src="assets/img/user2.jpg" class="shadow rounded-circle" alt="image">
-                    </div>
-                </div>
-                <div class="single-feedback-item">
-                    <p>“If a man empties his purse into his head, no man can take it away from him. An investment in
-                        knowledge always pays the best interest.”</p>
-                    <div class="info">
-                        <h3>David Warner</h3>
-                        <span>Switzerland</span>
-                        <img src="assets/img/user3.jpg" class="shadow rounded-circle" alt="image">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="blog-area pt-100 pb-70">
-        <div class="container">
-            <div class="section-title text-left">
-                <span class="sub-title">Explore News</span>
-                <h2>Our Latest Insights</h2>
-                <a href="blog-style-1.html" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span
-                        class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a>
-            </div>
-            <div class="blog-slides owl-carousel owl-theme">
-                <div class="single-blog-post mb-30">
-                    <div class="post-image">
-                        <a href="single-blog.html" class="d-block">
-                            <img src="assets/img/blog/1.jpg" alt="image">
-                        </a>
-                        <div class="tag">
-                            <a href="#">Learning</a>
-                        </div>
-                    </div>
-                    <div class="post-content">
-                        <ul class="post-meta">
-                            <li class="post-author">
-                                <img src="assets/img/user1.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                By: <a href="#" class="d-inline-block">Steven Smith</a>
-                            </li>
-                            <li><a href="#">August 30, 2021</a></li>
-                        </ul>
-                        <h3><a href="single-blog.html" class="d-inline-block">World largest elephant toothpaste
-                                experiment in 2021</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
-                    </div>
-                </div>
-                <div class="single-blog-post mb-30">
-                    <div class="post-image">
-                        <a href="single-blog.html" class="d-block">
-                            <img src="assets/img/blog/2.jpg" alt="image">
-                        </a>
-                        <div class="tag">
-                            <a href="#">Education</a>
-                        </div>
-                    </div>
-                    <div class="post-content">
-                        <ul class="post-meta">
-                            <li class="post-author">
-                                <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                By: <a href="#" class="d-inline-block">Lina D'Souja</a>
-                            </li>
-                            <li><a href="#">August 29, 2021</a></li>
-                        </ul>
-                        <h3><a href="single-blog.html" class="d-inline-block">Most Popular Education Posts Of The Week
-                                20-26 Aug</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
-                    </div>
-                </div>
-                <div class="single-blog-post mb-30">
-                    <div class="post-image">
-                        <a href="single-blog.html" class="d-block">
-                            <img src="assets/img/blog/3.jpg" alt="image">
-                        </a>
-                        <div class="tag">
-                            <a href="#">Management</a>
-                        </div>
-                    </div>
-                    <div class="post-content">
-                        <ul class="post-meta">
-                            <li class="post-author">
-                                <img src="assets/img/user3.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                By: <a href="#" class="d-inline-block">David Malan</a>
-                            </li>
-                            <li><a href="#">August 28, 2021</a></li>
-                        </ul>
-                        <h3><a href="single-blog.html" class="d-inline-block">How to enhance education quality
-                                management system</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
-                    </div>
-                </div>
-                <div class="single-blog-post mb-30">
-                    <div class="post-image">
-                        <a href="single-blog.html" class="d-block">
-                            <img src="assets/img/blog/4.jpg" alt="image">
-                        </a>
-                        <div class="tag">
-                            <a href="#">Ideas</a>
-                        </div>
-                    </div>
-                    <div class="post-content">
-                        <ul class="post-meta">
-                            <li class="post-author">
-                                <img src="assets/img/user5.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                By: <a href="#" class="d-inline-block">David Warner</a>
-                            </li>
-                            <li><a href="#">August 27, 2021</a></li>
-                        </ul>
-                        <h3><a href="single-blog.html" class="d-inline-block">Global education: Ideas for the way move
-                                forward</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
-                    </div>
-                </div>
-                <div class="single-blog-post mb-30">
-                    <div class="post-image">
-                        <a href="single-blog.html" class="d-block">
-                            <img src="assets/img/blog/5.jpg" alt="image">
-                        </a>
-                        <div class="tag">
-                            <a href="#">Workforce</a>
-                        </div>
-                    </div>
-                    <div class="post-content">
-                        <ul class="post-meta">
-                            <li class="post-author">
-                                <img src="assets/img/user6.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
-                                By: <a href="#" class="d-inline-block">Olivar Waise</a>
-                            </li>
-                            <li><a href="#">August 26, 2021</a></li>
-                        </ul>
-                        <h3><a href="single-blog.html" class="d-inline-block">New report reimagines the broader
-                                education workforce</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
             </div>

@@ -18,7 +18,7 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
                             </li>
                             <li>
                                 <i class='bx bx-envelope'></i>
-                                <a href="mailto:info@learningshala.in"><span class="__cf_email__">info@learningshala.co.in</span></a>
+                                <a href="mailto:info@coursebees.com"><span class="__cf_email__">info@coursebees.com</span></a>
                             </li>
                         </ul>
                         <ul class="social-link ">
@@ -47,8 +47,8 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
                     <div class="single-footer-widget mb-30 ">
                         <h3>Useful Link</h3>
                         <ul class="useful-link ">
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Courses</a></li>
+                            <li><a href="<?php echo $baselink?>about.php">About Us</a></li>
+                            <li><a href="<?php echo $baselink?>all-courses.php">Courses</a></li>
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">FAQs</a></li>
                             
@@ -74,7 +74,7 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
         <div class="footer-bottom-area ">
             <div class="container ">
                 <div class="logo ">
-                    <a href="# " class="d-inline-block "><img src="assets/img/logo.png " alt="image "></a>
+                    <a href="# " class="d-inline-block "><img src="<?php echo $baselink?>assets/img/logo.png " alt="image "></a>
                 </div>
                 <p><i class='bx bx-copyright'></i>2021 <a href="# " target="_blank ">LearningShala</a> Designed By <a href="https://www.moreyeahs.com/ " target="_blank ">MoreYeahs IT Technologies</a> | All rights reserved.</p>
             </div>

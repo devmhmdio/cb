@@ -156,3 +156,30 @@
 </body>
 
 </html>
+
+
+<div class="preloader">
+        <div class="loader">
+            <div class="shadow"></div>
+            <div class="box"></div>
+        </div>
+    </div>
+
+    <div class="space-holder" style="background-color: #1e1e4a;">
+
+        <div class="sticky">
+            <div class="horizontal">
+                <section role="feed" class="cards">
+                    <img src="assets/img/banner/Banner_1.png">
+                    <img src="assets/img/banner/Banner_2.png">
+                    <img src="assets/img/banner/Banner_3.png">
+                    <img src="assets/img/banner/Banner_4.png">
+                    <img src="assets/img/banner/Banner_5.png">
+                </section>
+            </div>
+        </div>
+        <div class="progress">
+    <div class="bar"></div>
+</div>
+    </div>
+  

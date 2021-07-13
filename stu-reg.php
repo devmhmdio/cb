@@ -1,45 +1,39 @@
-<?php
-// $to = 'contact@coursebees.com';
+<?php 
+require 'mailer/PHPMailerAutoload.php';
+
+if (isset($_POST['submit'])) {
+  $name = $_POST['name'];
+$email = $_POST['email'];
+$phone = $_POST['phone'];
+$dob = $_POST['dob'];
+$gender = $_POST['gender'];
+$address = $_POST['address'];
 
 
-    $curl = curl_init();
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $phone = $_POST['phone'];
-    $gender = $_POST['gender'];
-    $dob = $_POST['dob'];
-    $address = $_POST['address'];
+$mail = new PHPMailer;
+$mail->isSMTP();
+$mail->Host = 'smtp.gmail.com';
+$mail->Port = 587;
+$mail->SMTPAuth = true;
+$mail->SMTPSecure = 'tls';
 
+$mail->Username = 'contact@coursebees.com';
+$mail->Password = 'Contact@321';
 
-    curl_setopt_array($curl, array(
-        CURLOPT_URL => "https://api.sendgrid.com/v3/mail/send",
-        CURLOPT_RETURNTRANSFER => true,
-        CURLOPT_ENCODING => "",
-        CURLOPT_MAXREDIRS => 10,
-        CURLOPT_TIMEOUT => 30,
-        CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-        CURLOPT_CUSTOMREQUEST => "POST",
-        CURLOPT_POSTFIELDS => "{\n  \"personalizations\": [\n    {\n      \"to\": [\n        {\n          \"email\": \"contact@coursebees.com\"\n        }\n      ],\n      \"subject\": \"Student Registration\"\n    }\n  ],\n  \"from\": {\n    \"email\": \"contact@coursebees.com\"\n  },\n  \"content\": [\n    {\n      \"type\": \"text/html\",\n      \"value\": \"$name<br>$email<br>$phone<br>$dob<br>$gender<br>$address\"\n    }\n  ]\n}",
-        CURLOPT_HTTPHEADER => array(
-          "authorization: Bearer [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]",
-          "cache-control: no-cache",
-          "content-type: application/json"
-        ),
-      ));
+$mail->setFrom('contact@coursebees.com', 'CourseBees');
+$mail->addAddress('contact@coursebees.com');
 
+$mail->isHTML(true);
+$mail->Subject = 'Student Registration Form';
+// $mail->Body = '$name<br>$email<br>$phone<br>$dob<br>$gender<br>$address';
+$mail->Body = 'oye hoye';
 
-$response = curl_exec($curl);
-$err = curl_error($curl);
-
-curl_close($curl);
-header('Location: index.php');
-
-
-if ($err) {
-  echo "cURL Error #:" . $err;
+if (!$mail->send()) {
+  echo "Email not sent";
 } else {
-  echo $response;
+  echo "Email sent";
+}
 }
 
-// $content = "Name: " . $name . " \n" . "Email: " . $email . " \n" . "Phone: " . $phone . " \n" . "DOB: " . $dob . " \n" . "Address: " . $address;
-// mail($to, 'From: Student Registration', $content);
+
+?>

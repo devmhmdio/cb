@@ -80,12 +80,13 @@
 								<h3>Welcome...!!!</h3>
 
 								<!-- <p>New to CourseBees? <a href="register.html">Sign up</a></p> -->
-								<form name="Student" action="stu-reg.php" method="POST">
+								<h4 class="sent-notification"></h4>
+								<form id="stu-reg-form">
 									<div class="form-group">
 										<div class="row">
 											<div class="col-sm-12">
 
-												<input type="text" placeholder="Your name" name="name" class="form-control" required>
+												<input type="text" id="name" placeholder="Your name" name="name" class="form-control" required>
 
 											</div>
 										</div>
@@ -93,11 +94,11 @@
 									<div class="form-group" style="text-align: left;">
 										<div class="row">
 											<div class="col-sm-6 pt-1">
-												<input type="email" placeholder="Your email address" name="email" class="form-control input-txt" style="width: 98%;" required>
+												<input type="email" id="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
 											<div class="col-sm-6 pt-1">
-												<input type="tel" placeholder="Your phone number" name="phone" class="form-control input-txt" style="width: 98%;" required>
+												<input type="tel" id="phone" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
 										</div>
@@ -108,14 +109,14 @@
 
 										<div class="row">
 											<div class="col-sm-6 pt-1">
-												<select name="country" class="m-0" id="" name="gender">
+												<select id="gender" class="m-0">
 													<option value="India">male</option>
 													<option value="austrailia">female</option>
 
 												</select>
 											</div>
 											<div class="col-sm-6 pt-1">
-												<input type="date" name="dob" placeholder="Date of Birth" class="form-control m-0 input-txt" required>
+												<input type="date" id="dob" placeholder="Date of Birth" class="form-control m-0 input-txt" required>
 
 											</div>
 										</div>
@@ -127,7 +128,7 @@
 										<div class="row">
 											<div class="col-sm-12">
 												<label class="form-label txt" for="textAreaExample"></label>
-												<textarea class="form-control" name="address" id="textAreaExample1" placeholder="Address" rows="4"></textarea>
+												<textarea id="address" class="form-control" placeholder="Address" rows="4"></textarea>
 
 											</div>
 										</div>
@@ -136,7 +137,7 @@
 
 									</div>
 									<p>&nbsp;</p>
-									<button type="submit" name="submit" value="Submit Response">Submit Response</button>
+									<button type="submit" onclick="sendEmail()" value="Submit">Submit Response</button>
 
 
 								</form>
@@ -185,6 +186,51 @@
 	<script src="assets/js/contact-form-script.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script src="assets/js/student-registration.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript">
+
+		function sendEmail() {
+			debugger;
+			var name = $("#name");
+			var email = $("#email");
+			var phone = $("#phone");
+			var dob = $("#dob");
+			var gender = $("#gender");
+			var address = $("#address");
+
+			if (isNotEmpty(name) && isNotEmpty(email) && isNotEmpty(phone) && isNotEmpty(dob)) {
+				$.ajax({
+					url: 'stu-reg2.php',
+					method: 'POST',
+					dataType: 'json',
+					data: {
+						name: name.val(),
+						email: email.val(),
+						phone: phone.val(),
+						dob: dob.val(),
+						gender: gender.val(),
+						address: address.val()
+					},
+					success: function (response) {
+						$('#stu-reg-form')[0].reset();
+						$('.sent-notification').text("Message sent successfully");
+					}
+				})
+			}
+		}
+
+	
+
+		function isNotEmpty(caller) {
+			if (caller.val()=="") {
+				caller.css('border','1px solid red');
+				return false;
+			} else {
+				caller.css('border','');
+				return true;
+			}
+		}
+</script>
 </body>
 
 </html>

@@ -21,6 +21,19 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-202009583-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    
+
+    gtag('config', 'UA-202009583-1');
+</script>
+
 </head>
 
 <body>

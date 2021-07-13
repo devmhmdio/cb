@@ -20,8 +20,13 @@
 	<link rel="stylesheet" href="assets/css/style.css">
 	<link rel="stylesheet" href="assets/css/responsive.css">
 	<link rel="stylesheet" href="assets/css/student-registration.css">
-	<title>CourseBees</title>
+	<title>CourseBees - Student Registration</title>
 	<link rel="icon" type="image/png" href="assets/img/favicon.png">
+	<style>
+		.container {
+			min-height: auto !important;
+		}
+	</style>
 </head>
 
 <body>
@@ -32,6 +37,30 @@
 			<div class="box"></div>
 		</div>
 	</div>
+
+
+	<?php include './templates/header.php' ?>
+
+
+    <div class="search-overlay">
+        <div class="d-table">
+            <div class="d-table-cell">
+                <div class="search-overlay-layer"></div>
+                <div class="search-overlay-layer"></div>
+                <div class="search-overlay-layer"></div>
+                <div class="search-overlay-close">
+                    <span class="search-overlay-close-line"></span>
+                    <span class="search-overlay-close-line"></span>
+                </div>
+                <div class="search-overlay-form">
+                    <form>
+                        <input type="text" class="input-search" placeholder="Search here...">
+                        <button type="submit"><i class='bx bx-search-alt'></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
  
 	<section class="login-area">
 		<div class="row m-0">

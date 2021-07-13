@@ -58,7 +58,7 @@
                         <div class="d-table-cell">
                             <div class="login-form">
                                 <div class="logo">
-                                    <a href="index-2.html"><img src="assets/img/black-logo.png" alt="image"></a>
+                                    <a href="about.html"><img src="assets/img/black-logo.png" alt="image"></a>
                                 </div>
                                 <h3>Welcome...!!!</h3>
                                 <!-- <p>New to Raque? <a href="register.html">Sign up</a></p> -->
@@ -89,9 +89,9 @@
 
                                     <div class="form-group" style="text-align: left;">
                                         <p>&nbsp;</p>
-                                        <label class="txt" style="margin-right: 10px;">Specialised Category</label>
-
-                                        <input type="checkbox" class="form-check-input" id="skill1">
+                                        <label class="txt px-2" style="margin-right: 10px;">Specialised Category</label>
+                                        <br>
+                                        <input type="checkbox" class="form-check-input " id="skill1">
                                         <label class="form-check-label" style="margin-right: 10px;" for="skill1">Aviation</label>
                                         <input type="checkbox" class="form-check-input" id="skill2">
                                         <label class="form-check-label" for="skill2" style="margin-right: 10px;">Beauty</label>
@@ -102,12 +102,12 @@
 
                                         <div class="row">
                                             <div class="col-sm-6">
-                                                <label class="txt">Relevant Experience</label>
+                                                <label class="txt px-2">Relevant Experience</label>
                                                 <input type="text" placeholder="Relevant Experience" class="form-control input-txt" style="width: 98%; float: left;" required>
 
                                             </div>
                                             <div class="col-sm-6">
-                                                <label class="txt">Personal Achievements</label>
+                                                <label class="txt px-2">Personal Achievements</label>
                                                 <input type="text" placeholder="Personal Achievements" class="form-control input-txt" style="width: 98%; float: right;" required>
 
                                             </div>

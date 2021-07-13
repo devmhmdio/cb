@@ -46,7 +46,7 @@
 						<div class="d-table-cell">
 							<div class="login-form">
 								<div class="logo">
-									<a href="index-2.html"><img src="assets/img/black-logo.png" alt="image"></a>
+									<a href="about.html"><img src="assets/img/black-logo.png" alt="image"></a>
 								</div>
 								<h3>Welcome...!!!</h3>
 
@@ -97,8 +97,8 @@
 
 										<div class="row">
 											<div class="col-sm-12">
-												<label class="form-label txt" for="textAreaExample">Address</label>
-												<textarea class="form-control" id="textAreaExample1" rows="4"></textarea>
+												<label class="form-label txt" for="textAreaExample"></label>
+												<textarea class="form-control" id="textAreaExample1" placeholder="Address" rows="4"></textarea>
 
 											</div>
 										</div>

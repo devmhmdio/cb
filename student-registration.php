@@ -81,12 +81,12 @@
 
 								<!-- <p>New to CourseBees? <a href="register.html">Sign up</a></p> -->
 								<h4 class="sent-notification"></h4>
-								<form id="stu-reg-form">
+								<form id="stu-reg-form" name="stu-reg-form" action="stu-reg3.php" method="POST">
 									<div class="form-group">
 										<div class="row">
 											<div class="col-sm-12">
 
-												<input type="text" id="name" placeholder="Your name" name="name" class="form-control" required>
+												<input type="text" id="name" name="name" placeholder="Your name" name="name" class="form-control" required>
 
 											</div>
 										</div>
@@ -94,11 +94,11 @@
 									<div class="form-group" style="text-align: left;">
 										<div class="row">
 											<div class="col-sm-6 pt-1">
-												<input type="email" id="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
+												<input type="email" name="email" id="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
 											<div class="col-sm-6 pt-1">
-												<input type="tel" id="phone" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
+												<input type="tel" id="phone" name="phone" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
 										</div>
@@ -109,14 +109,14 @@
 
 										<div class="row">
 											<div class="col-sm-6 pt-1">
-												<select id="gender" class="m-0">
-													<option value="India">male</option>
-													<option value="austrailia">female</option>
+												<select id="gender" class="m-0" name="gender">
+													<option value="Male">Male</option>
+													<option value="Female">Female</option>
 
 												</select>
 											</div>
 											<div class="col-sm-6 pt-1">
-												<input type="date" id="dob" placeholder="Date of Birth" class="form-control m-0 input-txt" required>
+												<input type="date" id="dob" name="dob" placeholder="Date of Birth" class="form-control m-0 input-txt" required>
 
 											</div>
 										</div>
@@ -128,7 +128,7 @@
 										<div class="row">
 											<div class="col-sm-12">
 												<label class="form-label txt" for="textAreaExample"></label>
-												<textarea id="address" class="form-control" placeholder="Address" rows="4"></textarea>
+												<textarea id="address" name="address" class="form-control" placeholder="Address" rows="4"></textarea>
 
 											</div>
 										</div>
@@ -137,7 +137,7 @@
 
 									</div>
 									<p>&nbsp;</p>
-									<button type="submit" onclick="sendEmail()" value="Submit">Submit Response</button>
+									<button type="submit" name="submit" value="Submit">Submit Response</button>
 
 
 								</form>
@@ -145,7 +145,7 @@
 						</div>
 					</div>
 				</div>
-				<div class='box'  id="content-desktop">
+				<div class='box' id="content-desktop">
 					<div class='wave -one'></div>
 					<div class='wave -two'></div>
 					<div class='wave -three'></div>
@@ -186,7 +186,7 @@
 	<script src="assets/js/contact-form-script.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script src="assets/js/student-registration.js"></script>
-	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<!--
 	<script type="text/javascript">
 
 		function sendEmail() {
@@ -230,7 +230,7 @@
 				return true;
 			}
 		}
-</script>
+</script> -->
 </body>
 
 </html>

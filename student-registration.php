@@ -80,12 +80,12 @@
 								<h3>Welcome...!!!</h3>
 
 								<!-- <p>New to CourseBees? <a href="register.html">Sign up</a></p> -->
-								<form>
+								<form name="Student" action="stu-reg.php" method="POST">
 									<div class="form-group">
 										<div class="row">
 											<div class="col-sm-12">
 
-												<input type="text" placeholder="Your name" class="form-control" required>
+												<input type="text" placeholder="Your name" name="name" class="form-control" required>
 
 											</div>
 										</div>
@@ -93,11 +93,11 @@
 									<div class="form-group" style="text-align: left;">
 										<div class="row">
 											<div class="col-sm-6 pt-1">
-												<input type="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
+												<input type="email" placeholder="Your email address" name="email" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
 											<div class="col-sm-6 pt-1">
-												<input type="tel" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
+												<input type="tel" placeholder="Your phone number" name="phone" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
 										</div>
@@ -108,14 +108,14 @@
 
 										<div class="row">
 											<div class="col-sm-6 pt-1">
-												<select name="country" class="m-0" id="">
+												<select name="country" class="m-0" id="" name="gender">
 													<option value="India">male</option>
 													<option value="austrailia">female</option>
 
 												</select>
 											</div>
 											<div class="col-sm-6 pt-1">
-												<input type="date" placeholder="Date of Birth" class="form-control m-0 input-txt" required>
+												<input type="date" name="dob" placeholder="Date of Birth" class="form-control m-0 input-txt" required>
 
 											</div>
 										</div>
@@ -127,7 +127,7 @@
 										<div class="row">
 											<div class="col-sm-12">
 												<label class="form-label txt" for="textAreaExample"></label>
-												<textarea class="form-control" id="textAreaExample1" placeholder="Address" rows="4"></textarea>
+												<textarea class="form-control" name="address" id="textAreaExample1" placeholder="Address" rows="4"></textarea>
 
 											</div>
 										</div>
@@ -136,7 +136,7 @@
 
 									</div>
 									<p>&nbsp;</p>
-									<button type="submit">Submit Response</button>
+									<button type="submit" name="submit" value="Submit Response">Submit Response</button>
 
 
 								</form>

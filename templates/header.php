@@ -33,9 +33,9 @@
     </div>
 
     <div class="navbar-area">
-        <div class="CourseBees-responsive-nav">
+        <div class="raque-responsive-nav">
             <div class="container">
-                <div class="CourseBees-responsive-menu">
+                <div class="raque-responsive-menu">
                     <div class="logo">
                         <a href="<?php $baselink ?>">
                             <!-- <img src="../assets/img/black-logo.png" alt="logo"> -->
@@ -45,7 +45,7 @@
                 </div>
             </div>
         </div>
-        <div class="CourseBees-nav">
+        <div class="raque-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
 
@@ -91,7 +91,7 @@
 
 
     <div class="navbar-area header-sticky">
-        <div class="CourseBees-nav">
+        <div class="raque-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <a class="navbar-brand" href="<?php echo $baselink ?>">

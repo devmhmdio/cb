@@ -99,6 +99,8 @@ We request You to not provide us with any Personal Information unless specifical
                 <p><strong>Automatic Information Collection</strong>
                 Our system collects information that is sent over the internet without Your control. Some examples of the information we collect and analyse include the Internet protocol (IP) address used to connect Your computer to the internet; login; email; password; computer and connection information such as browser type and version, operating system, and platform; course enrolled history, which we sometimes aggregate with similar information from other users to create features, reports such as popular courses, most used features etc; the full Uniform Resource Locator (URL) clickstream to, and from our Platform, including date and time; cookie number; courses or videos You viewed or searched for; the email id You used to call our customer service.
             </p>
+            &nbsp;
+            <h4></h4>
     </section>
 <p>&nbsp;</p>
 

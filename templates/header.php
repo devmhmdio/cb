@@ -1,4 +1,4 @@
-<?php $baselink = "http://coursebees.com/"; ?>
+<?php $baselink = "http://www.coursebees.com/"; ?>
 
 <header class="header-area">
     <div class="top-header">

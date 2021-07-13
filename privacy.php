@@ -100,8 +100,42 @@ We request You to not provide us with any Personal Information unless specifical
                 Our system collects information that is sent over the internet without Your control. Some examples of the information we collect and analyse include the Internet protocol (IP) address used to connect Your computer to the internet; login; email; password; computer and connection information such as browser type and version, operating system, and platform; course enrolled history, which we sometimes aggregate with similar information from other users to create features, reports such as popular courses, most used features etc; the full Uniform Resource Locator (URL) clickstream to, and from our Platform, including date and time; cookie number; courses or videos You viewed or searched for; the email id You used to call our customer service.
             </p>
             &nbsp;
-            <h4></h4>
-    </section>
+            <h4>2. How we get data about you?</h4>
+            <p>We use tools like cookies, web beacons, and similar tracking technologies to gather the data listed above. Some of these tools offer you the ability to opt-out of data collection.</p>
+            &nbsp;
+            <h4>3. Who we share your data with?</h4>
+            <p>We share certain data about you with instructors, other students, companies performing services for us, CourseBees affiliates, our business partners, analytics and data enrichment providers, your social media providers, companies helping us run promotions and surveys, and advertising companies who help us promote our Services. We may also share your data as needed for security, legal compliance, or as part of a corporate restructuring. Lastly, we can share data in other ways if it is aggregated or de-identified or if we get your consent.</p>
+            &nbsp;
+            <h4>4. What we use your data for?</h4>
+            <p>We use your data to do things like provide our Services, communicate with you, troubleshoot issues, secure against fraud and abuse, improve and update our Services, analyze how people use our Services, serve personalized advertising, and as required by law or necessary for safety and integrity.</p>
+            &nbsp;
+            <h4>5. Information Security</h4>
+            <p>To protect the security of Your Personal Information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information You input. To prevent unauthorized access to sensitive information, it is important for You to monitor those who have access to Your password and to Your computer, laptop or any other device through which Your account can be accessed. Be sure to sign off when finished while using a shared computer.
+
+However, please do note that given the nature of internet transactions, CourseBees does not take any responsibility for the transmission of information including Personal Information shared by You other than as set forth in this Policy. Any transmission of information on the internet is done at Your risk and shall not be responsible for the circumvention of the privacy settings or security measures either by You or any third party.</p>
+&nbsp;
+<h4>6. Your rights</h4>
+<p>You have certain rights around the use of your data, including the ability to opt-out of promotional emails, cookies, and collection of your data by certain third parties. You can update or terminate your account from within our Services, and can also contact us for individual rights requests about your personal data. Parents who believe we’ve unintentionally collected personal data about their underage child should contact us for help deleting that information.</p>
+&nbsp;
+<h4>7. Accessing, Updating, and Deleting Your Personal Data</h4>
+<p>You can access and update your personal data that CourseBees collects and maintains as follows:
+    <ul>
+        <li>To update the data you provide directly, log into your account and update your account at any time.</li>
+        <li>To terminate your account.</li>
+        <li>If you are a student, visit your profile settings page and follow the steps.</li>
+        <li>If you have any issues terminating your account, please contact our Support Team.</li>
+        <li>Please note: even after your account is terminated, some or all of your data may still be visible to others, including without limitation any data that has been (a) copied, stored, or disseminated by other users (including comments on content); (b) shared or disseminated by you or others (including in your shared content); or (c) posted to a third-party platform. Even after your account is terminated, we retain your data for as long as we have a legitimate purpose to do so (and in accordance with applicable law), including to assist with legal obligations, resolve disputes, and enforce our agreements. We may retain and disclose such data pursuant to this Privacy Policy after your account has been terminated.</li>
+    </ul>
+</p>
+&nbsp;
+<h4>8. Modifications to this Privacy Policy</h4>
+<p>From time to time, we may update this Privacy Policy. If we make any material change to it, we will notify you via email, through a notification posted on the Services, or as required by applicable law. We will also include a summary of the key changes. Unless stated otherwise, modifications will become effective on the day they are posted.</p>
+&nbsp;
+<h4>9. Questions</h4>
+<p>If you have any questions, concerns, or disputes regarding our Privacy Policy, please feel free to contact our privacy team (including our designated personal information protection manager) at info@coursebees.com. You can also send postal mail to us at CourseBees, Laxmi Nagar Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092.</p>   
+
+
+</section>
 <p>&nbsp;</p>
 
 

@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <title>Enduv</title>
+    <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -60,7 +60,7 @@
         <div class="container">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Blog</li>
                 </ul>
                 <h2>Blog Details</h2>
@@ -151,7 +151,7 @@
                         </div>
                         
                         
-                        <div class="raque-post-navigation">
+                        <div class="CourseBees-post-navigation">
                             <div class="prev-link-wrapper">
                                 <div class="info-prev-link-wrapper">
                                     <a href="single-blog.html">
@@ -192,7 +192,7 @@
                 <div class="col-lg-4 col-md-12">
                     <aside class="widget-area">
                         
-                        <section class="widget widget_raque_posts_thumb">
+                        <section class="widget widget_CourseBees_posts_thumb">
                             <h3 class="widget-title">Popular Posts</h3>
                             <article class="item">
                                 <a href="single-blog.html" class="thumb">

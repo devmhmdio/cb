@@ -20,7 +20,7 @@
 	<link rel="stylesheet" href="assets/css/style.css">
 	<link rel="stylesheet" href="assets/css/responsive.css">
 	<link rel="stylesheet" href="assets/css/student-registration.css">
-	<title>Enduv</title>
+	<title>CourseBees</title>
 	<link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -32,7 +32,7 @@
 			<div class="box"></div>
 		</div>
 	</div>
-
+ 
 	<section class="login-area">
 		<div class="row m-0">
 			<div class="col-lg-6 col-md-12 p-0">
@@ -46,11 +46,11 @@
 						<div class="d-table-cell">
 							<div class="login-form">
 								<div class="logo">
-									<a href="about.html"><img src="assets/img/black-logo.png" alt="image"></a>
+									<a href="index.php"><img src="assets/img/black-logo.png" alt="image"></a>
 								</div>
 								<h3>Welcome...!!!</h3>
 
-								<!-- <p>New to Raque? <a href="register.html">Sign up</a></p> -->
+								<!-- <p>New to CourseBees? <a href="register.html">Sign up</a></p> -->
 								<form>
 									<div class="form-group">
 										<div class="row">

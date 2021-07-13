@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <title>Enduv</title>
+    <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -61,7 +61,7 @@
         <div class="container">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Blog</li>
                 </ul>
                 <h2>Blog Grid</h2>
@@ -86,8 +86,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user1.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user1.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">Steven Smith</a>
                                 </li>
                                 <li><a href="#">August 30, 2021</a></li>
@@ -111,8 +110,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">Lina D'Souja</a>
                                 </li>
                                 <li><a href="#">August 29, 2021</a></li>
@@ -136,8 +134,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user3.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user3.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">David Malan</a>
                                 </li>
                                 <li><a href="#">August 28, 2021</a></li>
@@ -161,8 +158,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user5.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user5.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">David Warner</a>
                                 </li>
                                 <li><a href="#">August 27, 2021</a></li>
@@ -186,8 +182,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user6.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user6.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">Olivar Waise</a>
                                 </li>
                                 <li><a href="#">August 26, 2021</a></li>
@@ -211,8 +206,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">Lina D'Souja</a>
                                 </li>
                                 <li><a href="#">August 29, 2021</a></li>
@@ -236,8 +230,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user1.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user1.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">Steven Smith</a>
                                 </li>
                                 <li><a href="#">August 30, 2021</a></li>
@@ -261,8 +254,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user2.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">Lina D'Souja</a>
                                 </li>
                                 <li><a href="#">August 29, 2021</a></li>
@@ -286,8 +278,7 @@
                         <div class="post-content">
                             <ul class="post-meta">
                                 <li class="post-author">
-                                    <img src="assets/img/user3.jpg" class="d-inline-block rounded-circle mr-2"
-                                        alt="image">
+                                    <img src="assets/img/user3.jpg" class="d-inline-block rounded-circle mr-2" alt="image">
                                     By: <a href="#" class="d-inline-block">David Malan</a>
                                 </li>
                                 <li><a href="#">August 28, 2021</a></li>

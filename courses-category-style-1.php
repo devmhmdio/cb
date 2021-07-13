@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/course-category.css">
     <link rel="stylesheet" href="assets/fa/css/all.css">
-    <title>Enduv</title>
+    <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <style type="text/css">
     .single-categories-courses-box:hover .icon, .single-categories-courses-box:focus .icon {
@@ -69,7 +69,7 @@
         <div class="container">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Category</li>
                 </ul>
                 <h2>Category List</h2>
@@ -290,7 +290,7 @@
                                 <img src="assets/img/user1.jpg" class="rounded-circle mr-2" alt="image">
                                 <span>Steven Smith</span>
                             </div>
-                            <h3><a href="single-courses.html" class="d-inline-block">Raque Professional IT Expert Certificate Course</a></h3>
+                            <h3><a href="single-courses.html" class="d-inline-block">CourseBees Professional IT Expert Certificate Course</a></h3>
                             <div class="courses-rating">
                                 <div class="review-stars-rated">
                                     <i class='bx bxs-star'></i>

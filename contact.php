@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <title>Enduv</title>
+    <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -61,7 +61,7 @@
         <div class="container">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Contact</li>
                 </ul>
                 <h2>Contact Us</h2>
@@ -78,14 +78,10 @@
                             <i class='bx bx-envelope'></i>
                         </div>
                         <h3>Email Us</h3>
-                        
-                        <p><a
-                                href="mailto:hello@learningshala.in"><span
-                                    class="__cf_email__">hello@learningshala.in</span></a>
+
+                        <p><a href="mailto:hello@learningshala.in"><span class="__cf_email__">hello@learningshala.in</span></a>
                         </p>
-                        <p><a
-                                href="mailto:info@learningshala.in"><span
-                                    class="__cf_email__">info@learningshala.in</span></a>
+                        <p><a href="mailto:info@learningshala.in"><span class="__cf_email__">info@learningshala.in</span></a>
                         </p>
                     </div>
                 </div>
@@ -96,9 +92,9 @@
                         </div>
                         <h3>InternShala</h3>
                         <p><a href="https://goo.gl/maps/d1oYxhWjQw96Jjid9" target="_blank">
-Laxmi Nagar
-Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
-</a></p>
+                                Laxmi Nagar
+                                Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
+                            </a></p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
@@ -129,42 +125,36 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
                             <div class="form-group">
-                                <input type="text" name="name" id="name" class="form-control" required
-                                    data-error="Please enter your name" placeholder="Your Name">
+                                <input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Your Name">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="form-group">
-                                <input type="email" name="email" id="email" class="form-control" required
-                                    data-error="Please enter your email" placeholder="Your Email">
+                                <input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Your Email">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="form-group">
-                                <input type="text" name="phone_number" id="phone_number" required
-                                    data-error="Please enter your number" class="form-control" placeholder="Your Phone">
+                                <input type="text" name="phone_number" id="phone_number" required data-error="Please enter your number" class="form-control" placeholder="Your Phone">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="form-group">
-                                <input type="text" name="msg_subject" id="msg_subject" class="form-control" required
-                                    data-error="Please enter your subject" placeholder="Your Subject">
+                                <input type="text" name="msg_subject" id="msg_subject" class="form-control" required data-error="Please enter your subject" placeholder="Your Subject">
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12">
                             <div class="form-group">
-                                <textarea name="message" class="form-control" id="message" cols="30" rows="5" required
-                                    data-error="Write your message" placeholder="Your Message"></textarea>
+                                <textarea name="message" class="form-control" id="message" cols="30" rows="5" required data-error="Write your message" placeholder="Your Message"></textarea>
                                 <div class="help-block with-errors"></div>
                             </div>
                         </div>
                         <div class="col-lg-12 col-md-12">
-                            <button type="submit" class="default-btn"><i
-                                    class='bx bx-paper-plane icon-arrow before'></i><span class="label">Send
+                            <button type="submit" class="default-btn"><i class='bx bx-paper-plane icon-arrow before'></i><span class="label">Send
                                     Message</span><i class="bx bx-paper-plane icon-arrow after"></i></button>
                             <div id="msgSubmit" class="h3 text-center hidden"></div>
                             <div class="clearfix"></div>
@@ -179,14 +169,13 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
 
 
     <div id="map">
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7004.14767792814!2d77.278489!3d28.627549000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce35319b6a7ff%3A0x127dca80423ad527!2sLaxmi%20Nagar%2C%20Block%20S1%2C%20Nanakpura%2C%20Shakarpur%2C%20New%20Delhi%2C%20Delhi%20110092!5e0!3m2!1sen!2sin!4v1625470191841!5m2!1sen!2sin"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7004.14767792814!2d77.278489!3d28.627549000000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce35319b6a7ff%3A0x127dca80423ad527!2sLaxmi%20Nagar%2C%20Block%20S1%2C%20Nanakpura%2C%20Shakarpur%2C%20New%20Delhi%2C%20Delhi%20110092!5e0!3m2!1sen!2sin!4v1625470191841!5m2!1sen!2sin"></iframe>
     </div>
 
 
 
 
-<?php include './templates/footer.php' ?>
+    <?php include './templates/footer.php' ?>
 
     <div class="go-top "><i class='bx bx-up-arrow-alt'></i></div>
 

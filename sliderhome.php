@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/responsive.css">
   <link rel="stylesheet" href="assets/css/sliderhome.css">
-  <title>Enduv</title>
+  <title>CourseBees</title>
   <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -58,7 +58,7 @@
           <div class="feedback-slides-content">
             <span class="sub-title">Distance learning</span>
             <h2>Flexible Study at Your Own Pace, According to Your Own Needs</h2>
-            <p>With the Raque, you can study whenever and wherever you choose. We have students in over 175 countries and a global reputation as a pioneer in the field of flexible learning. Our teaching also means, if you travel often or need
+            <p>With the CourseBees, you can study whenever and wherever you choose. We have students in over 175 countries and a global reputation as a pioneer in the field of flexible learning. Our teaching also means, if you travel often or need
               to relocate, you can continue to study wherever you go.</p>
             <div class="feedback-slides-two owl-carousel owl-theme">
               <div class="single-feedback-slides-item">

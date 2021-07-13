@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/fa/css/all.css">
-    <title>Enduv</title>
+    <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <style type="text/css">
         .single-categories-courses-box:hover .icon,

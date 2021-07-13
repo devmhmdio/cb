@@ -63,7 +63,7 @@
         <div class="container">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="courses-2-columns-style-1.html">Courses</a></li>
                     <li><a href="courses-2-columns-style-1.html">Personality Development</a></li>
                     <li><a href="courses-2-columns-style-1.html">Basic</a></li>
@@ -278,9 +278,9 @@
                                             <h4>James Anderson</h4>
                                             <span class="d-block">Photographer, Author, Teacher</span>
                                         </div>
-                                        <div class="author-profile-raque-profile">
+                                        <div class="author-profile-CourseBees-profile">
                                             <a href="single-instructor.html" class="d-inline-block">View Profile on
-                                                Raque</a>
+                                                CourseBees</a>
                                         </div>
                                     </div>
                                 </div>

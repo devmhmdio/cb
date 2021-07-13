@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <title>Enduv</title>
+    <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 
     <style>
@@ -71,7 +71,7 @@
         <div class="container">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>All Courses</li>
                 </ul>
                 <h2>All Courses</h2>

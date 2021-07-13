@@ -36,7 +36,7 @@ Block S1, Nanakpura, Shakarpur, New Delhi, Delhi 110092
                         <ul class="support-link ">
                             <!-- <li><a href="# ">FAQ's</a></li> -->
                             <li><a href="#">Support</a></li>
-                            <li><a href="# ">Privacy Policy</a></li>
+                            <li><a href="privacy.php">Privacy Policy</a></li>
                             <li><a href="#">Terms and Conditions</a></li>
                             <!-- <li><a href="#">Condition</a></li> -->
                             <!-- <li><a href="#">Policy</a></li> -->

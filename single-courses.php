@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <title>Ednuv</title>
+    <title>CourseBees</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
@@ -61,8 +61,8 @@
         <div class="container">
             <div class="page-title-content">
                 <ul>
-                    <li><a href="index-2.html">Home</a></li>
-                    <li><a href="courses-2-columns-style-1.html">Courses</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="signle.php">Courses</a></li>
                     <li>Sample Course</li>
                 </ul>
                 <h2>Courses</h2>
@@ -261,9 +261,9 @@
                                             <h4>James Anderson</h4>
                                             <span class="d-block">Photographer, Author, Teacher</span>
                                         </div>
-                                        <!-- <div class="author-profile-raque-profile">
+                                        <!-- <div class="author-profile-CourseBees-profile">
                                             <a href="single-instructor.html" class="d-inline-block">View Profile on
-                                                Raque</a>
+                                                CourseBees</a>
                                         </div> -->
                                     </div>
                                 </div>

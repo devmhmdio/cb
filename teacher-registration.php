@@ -68,12 +68,12 @@
                                     </div>
                                     <div class="form-group" style="text-align: left;">
                                         <div class="row">
-                                            <div class="col-sm-6">
-                                                <input type="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%; float: left;" required>
+                                            <div class="col-sm-6 pt-1">
+                                                <input type="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
 
                                             </div>
-                                            <div class="col-sm-6">
-                                                <input type="tel" placeholder="Your phone number" class="form-control input-txt" style="width: 98%; float: right;" required>
+                                            <div class="col-sm-6 pt-1">
+                                                <input type="tel" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
 
                                             </div>
                                         </div>
@@ -122,7 +122,7 @@
                         </div>
                     </div>
                 </div>
-                <div class='box'>
+                <div class='box' id="content-desktop">
                     <div class='wave -one'></div>
                     <div class='wave -two'></div>
                     <div class='wave -three'></div>

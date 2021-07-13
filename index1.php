@@ -23,11 +23,13 @@
     <title>Enduv</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
     <style type="text/css">
-    .single-categories-courses-box:hover .icon, .single-categories-courses-box:focus .icon {
-        color: #fff !important;
-        background-color: rgba(0, 0, 0, 0.35) !important;
-    }
-    .single-courses-box {
+        .single-categories-courses-box:hover .icon,
+        .single-categories-courses-box:focus .icon {
+            color: #fff !important;
+            background-color: rgba(0, 0, 0, 0.35) !important;
+        }
+
+        .single-courses-box {
             height: 450px;
         }
 
@@ -35,7 +37,7 @@
             height: 65px;
         }
     </style>
-    
+
 </head>
 
 <body>
@@ -94,8 +96,7 @@
                             <h5><i class='bx bx-planet'></i>A place where you can achieve</h5>
                             <p>Education encompasses both the teaching and learning of knowledge, proper conduct, and technical competency.</p>
                         </div>
-                        <a href="courses-2-columns-style-1.html" class="default-btn"><i
-                                class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Read More</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
+                        <a href="courses-2-columns-style-1.html" class="default-btn"><i class='bx bx-move-horizontal icon-arrow before'></i><span class="label">Read More</span><i class="bx bx-move-horizontal icon-arrow after"></i></a>
                     </div>
                 </div>
             </div>
@@ -136,7 +137,7 @@
                         <div class="icon ">
                             <!-- <img src="assets/img/Contact/personality developement.png" class='bx bx-code-alt'> -->
                             <i class="fas fa-user-tie" aria-hidden="true"></i>
-                            
+
                         </div>
                         <h3>Personality Developement</h3>
                         <span>58 Courses</span>
@@ -714,7 +715,7 @@
                                         <!-- <i class='bx bx-book-open'></i> number of lessons -->
                                     </li>
                                     <li class="courses-price">
-                                    ₹29999
+                                        ₹29999
                                     </li>
                                 </ul>
                             </div>
@@ -1004,8 +1005,7 @@
             <div class="section-title text-left">
                 <span class="sub-title">Explore News</span>
                 <h2>Our Latest Insights</h2>
-                <a href="blog-style-1.html" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span
-                        class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a>
+                <a href="blog-style-1.html" class="default-btn"><i class='bx bx-book-reader icon-arrow before'></i><span class="label">Read All</span><i class="bx bx-book-reader icon-arrow after"></i></a>
             </div>
             <div class="blog-slides owl-carousel owl-theme">
                 <div class="single-blog-post mb-30">
@@ -1027,8 +1027,7 @@
                         </ul>
                         <h3><a href="single-blog.html" class="d-inline-block">World largest elephant toothpaste
                                 experiment in 2021</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
+                        <a href="single-blog.html" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
                 <div class="single-blog-post mb-30">
@@ -1050,8 +1049,7 @@
                         </ul>
                         <h3><a href="single-blog.html" class="d-inline-block">Most Popular Education Posts Of The Week
                                 20-26 Aug</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
+                        <a href="single-blog.html" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
                 <div class="single-blog-post mb-30">
@@ -1073,8 +1071,7 @@
                         </ul>
                         <h3><a href="single-blog.html" class="d-inline-block">How to enhance education quality
                                 management system</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
+                        <a href="single-blog.html" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
                 <div class="single-blog-post mb-30">
@@ -1096,8 +1093,7 @@
                         </ul>
                         <h3><a href="single-blog.html" class="d-inline-block">Global education: Ideas for the way move
                                 forward</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
+                        <a href="single-blog.html" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
                 <div class="single-blog-post mb-30">
@@ -1119,8 +1115,7 @@
                         </ul>
                         <h3><a href="single-blog.html" class="d-inline-block">New report reimagines the broader
                                 education workforce</a></h3>
-                        <a href="single-blog.html" class="read-more-btn">Read More <i
-                                class='bx bx-right-arrow-alt'></i></a>
+                        <a href="single-blog.html" class="read-more-btn">Read More <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
             </div>

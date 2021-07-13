@@ -33,6 +33,9 @@
     </div>
   </div>
 
+
+
+  
   <div class="space-holder" style="background-color: #1e1e4a;">
 
     <div class="sticky">
@@ -158,14 +161,9 @@
 </html>
 
 
-<div class="preloader">
-        <div class="loader">
-            <div class="shadow"></div>
-            <div class="box"></div>
-        </div>
-    </div>
+   
 
-    <div class="space-holder" style="background-color: #1e1e4a;">
+    <!-- <div class="space-holder" style="background-color: #1e1e4a;">
 
         <div class="sticky">
             <div class="horizontal">
@@ -181,5 +179,5 @@
         <div class="progress">
     <div class="bar"></div>
 </div>
-    </div>
+    </div> -->
   

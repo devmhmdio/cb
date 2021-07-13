@@ -63,12 +63,12 @@
 									</div>
 									<div class="form-group" style="text-align: left;">
 										<div class="row">
-											<div class="col-sm-6 ">
-												<input type="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%; float: left;" required>
+											<div class="col-sm-6 pt-1">
+												<input type="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
-											<div class="col-sm-6">
-												<input type="tel" placeholder="Your phone number" class="form-control input-txt" style="width: 98%; float: right;" required>
+											<div class="col-sm-6 pt-1">
+												<input type="tel" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
 
 											</div>
 										</div>
@@ -78,14 +78,14 @@
 									<div class="form-group" style="text-align: left;">
 
 										<div class="row">
-											<div class="col-sm-6 ">
+											<div class="col-sm-6 pt-1">
 												<select name="country" class="m-0" id="">
 													<option value="India">male</option>
 													<option value="austrailia">female</option>
 
 												</select>
 											</div>
-											<div class="col-sm-6">
+											<div class="col-sm-6 pt-1">
 												<input type="date" placeholder="Date of Birth" class="form-control m-0 input-txt" required>
 
 											</div>
@@ -115,7 +115,7 @@
 						</div>
 					</div>
 				</div>
-				<div class='box'>
+				<div class='box'  id="content-desktop">
 					<div class='wave -one'></div>
 					<div class='wave -two'></div>
 					<div class='wave -three'></div>

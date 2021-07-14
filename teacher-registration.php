@@ -89,18 +89,18 @@
                                 </div>
                                 <h3>Welcome...!!!</h3>
                                 <!-- <p>New to CourseBees? <a href="register.html">Sign up</a></p> -->
-                                <form>
+                                <form method="POST" action="tea-reg.php" name="tea-reg">
                                     <div class="form-group">
-                                        <input type="text" placeholder="Your name" class="form-control" required>
+                                        <input type="text" name="name" placeholder="Your name" class="form-control" required>
                                     </div>
                                     <div class="form-group" style="text-align: left;">
                                         <div class="row">
                                             <div class="col-sm-6 pt-1">
-                                                <input type="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
+                                                <input type="email" name="email" placeholder="Your email address" class="form-control input-txt" style="width: 98%;" required>
 
                                             </div>
                                             <div class="col-sm-6 pt-1">
-                                                <input type="tel" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
+                                                <input type="tel" name="phone" placeholder="Your phone number" class="form-control input-txt" style="width: 98%;" required>
 
                                             </div>
                                         </div>
@@ -109,8 +109,8 @@
                                     <div class="form-group" style="text-align: left;">
 
                                         <p>Enter your age and DOB</p>
-                                        <input type="number" placeholder="Your age" class="form-control input-txt" style="width: 49%; float: left;" required>
-                                        <input type="date" placeholder="Date of Birth" class="form-control input-txt" style="width: 49%; float: right;" required>
+                                        <input type="number" name="age" placeholder="Your age" class="form-control input-txt" style="width: 49%; float: left;" required>
+                                        <input type="date" namee="dob" placeholder="Date of Birth" class="form-control input-txt" style="width: 49%; float: right;" required>
                                         <p>&nbsp;</p>
                                     </div>
 
@@ -118,11 +118,11 @@
                                         <p>&nbsp;</p>
                                         <label class="txt px-2" style="margin-right: 10px;">Specialised Category</label>
                                         <br>
-                                        <input type="checkbox" class="form-check-input " id="skill1">
+                                        <input type="checkbox" value="aviation" name="aviation" class="form-check-input " id="skill1">
                                         <label class="form-check-label" style="margin-right: 10px;" for="skill1">Aviation</label>
-                                        <input type="checkbox" class="form-check-input" id="skill2">
+                                        <input type="checkbox" name="beauty" value="beauty" class="form-check-input" id="skill2">
                                         <label class="form-check-label" for="skill2" style="margin-right: 10px;">Beauty</label>
-                                        <input type="checkbox" class="form-check-input" id="skill3">
+                                        <input type="checkbox" name="english" value="english" class="form-check-input" id="skill3">
                                         <label class="form-check-label" for="skill3">English</label>
                                     </div>
                                     <div class="form-group" style="text-align: left;">
@@ -130,18 +130,18 @@
                                         <div class="row">
                                             <div class="col-sm-6">
                                                 <label class="txt px-2">Relevant Experience</label>
-                                                <input type="text" placeholder="Relevant Experience" class="form-control input-txt" style="width: 98%; float: left;" required>
+                                                <input type="text" name="exp" placeholder="Relevant Experience" class="form-control input-txt" style="width: 98%; float: left;" required>
 
                                             </div>
                                             <div class="col-sm-6">
                                                 <label class="txt px-2">Personal Achievements</label>
-                                                <input type="text" placeholder="Personal Achievements" class="form-control input-txt" style="width: 98%; float: right;" required>
+                                                <input type="text" name="personal" placeholder="Personal Achievements" class="form-control input-txt" style="width: 98%; float: right;" required>
 
                                             </div>
                                         </div>
                                     </div>
                                     <p>&nbsp;</p>
-                                    <button type="submit">Submit Response</button>
+                                    <button type="submit" name="submit" value="Submit">Submit Response</button>
 
 
                                 </form>
